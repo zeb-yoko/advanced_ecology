@@ -1,3 +1,6 @@
+########ADVANCED ECOLOGY VERSION#########
+##Zebadiah.Yoko@gmail.com##
+
 library(car); library(dhglm); library(dplyr); library(effects);
 library(ggplot2); library(glmm); library(gridExtra); library(lme4)
 library(lmerTest);library(mcmc); library(plotly); library(reshape2); 

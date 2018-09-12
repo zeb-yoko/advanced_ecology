@@ -1,6 +1,7 @@
 ########ADVANCED ECOLOGY VERSION#########
 ##Zebadiah.Yoko@gmail.com##
 
+##load important libraries##
 library(car); library(dhglm); library(effects);
 library(glmm); library(gridExtra); library(lme4)
 library(lmerTest);library(mcmc); library(plotly); library(reshape2); 
@@ -12,5 +13,5 @@ setwd("C:/Users/zippy/Dropbox/Geum triflorum/Master_Datasheets")
 col.esa <- c("#18563E", "#82BE42", "#FFC423")
 setwd("C:/Users/zippy/OneDrive/NDSU/Rstudio-code")
 #csv loadin workaround
-colnames(VECTOR)[1] = "Column_Name"\
+colnames(VECTOR)[1] = "Column_Name"
 

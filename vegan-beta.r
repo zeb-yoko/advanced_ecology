@@ -1,0 +1,10 @@
+install.packages("vegan")
+library("vegan")
+data(BCI)
+S<-specnumber(BCI)
+View(S)
+sac<- specaccum(BCI)
+plot(sac,ci.type="polygon",ci.col="green")
+rarecurve(BCI)
+H<-diversity(BCI)
+H

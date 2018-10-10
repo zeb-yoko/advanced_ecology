@@ -1,0 +1,2075 @@
+YEAR,STRATUM,AOU,SPECIES,POP
+1955,45,1320,Mallard,93422.23
+1955,45,1350,Gadwall,0
+1955,45,1370,American wigeon,15142.93
+1955,45,1390,Green-winged teal,0
+1955,45,1400,Blue-winged teal,133027.85
+1955,45,1420,Northern shoveler,9824.45
+1955,45,1430,Northern pintail,166381.14
+1955,45,1460,Redhead,6215.87
+1955,45,1470,Canvasback,4614.05
+1955,45,1499,Generic scaup,10605.03
+1955,45,1500,Ring-necked duck,605.85
+1955,45,1519,Generic goldeneye,0
+1955,45,1530,Bufflehead,0
+1955,45,1670,Ruddy duck,8023.02
+1955,45,1720,Canada goose,0
+1955,45,2210,American coot,20929.76
+1955,45,9991,Pond,73723.32
+1955,46,1320,Mallard,76196.77
+1955,46,1350,Gadwall,0
+1955,46,1370,American wigeon,9932.67
+1955,46,1390,Green-winged teal,0
+1955,46,1400,Blue-winged teal,95495.8
+1955,46,1420,Northern shoveler,15147.29
+1955,46,1430,Northern pintail,93753.41
+1955,46,1460,Redhead,0
+1955,46,1470,Canvasback,6936.57
+1955,46,1499,Generic scaup,8084.6
+1955,46,1500,Ring-necked duck,0
+1955,46,1519,Generic goldeneye,0
+1955,46,1530,Bufflehead,0
+1955,46,1670,Ruddy duck,3139.99
+1955,46,1720,Canada goose,0
+1955,46,2210,American coot,20216.74
+1955,46,9991,Pond,62275.51
+1956,45,1320,Mallard,109392.67
+1956,45,1350,Gadwall,0
+1956,45,1370,American wigeon,13227.54
+1956,45,1390,Green-winged teal,0
+1956,45,1400,Blue-winged teal,156181.9
+1956,45,1420,Northern shoveler,25321.54
+1956,45,1430,Northern pintail,182620.19
+1956,45,1460,Redhead,12423.53
+1956,45,1470,Canvasback,5920.59
+1956,45,1499,Generic scaup,10134.94
+1956,45,1500,Ring-necked duck,576.67
+1956,45,1519,Generic goldeneye,0
+1956,45,1530,Bufflehead,0
+1956,45,1670,Ruddy duck,6636.02
+1956,45,1720,Canada goose,0
+1956,45,2210,American coot,20848.9
+1956,45,9991,Pond,93028.95
+1956,46,1320,Mallard,83814.19
+1956,46,1350,Gadwall,0
+1956,46,1370,American wigeon,8801.86
+1956,46,1390,Green-winged teal,0
+1956,46,1400,Blue-winged teal,136711.93
+1956,46,1420,Northern shoveler,28295.7
+1956,46,1430,Northern pintail,100550.08
+1956,46,1460,Redhead,0
+1956,46,1470,Canvasback,7057.19
+1956,46,1499,Generic scaup,7822.08
+1956,46,1500,Ring-necked duck,0
+1956,46,1519,Generic goldeneye,0
+1956,46,1530,Bufflehead,0
+1956,46,1670,Ruddy duck,4635.59
+1956,46,1720,Canada goose,0
+1956,46,2210,American coot,23546.48
+1956,46,9991,Pond,68399.26
+1957,45,1320,Mallard,127408.75
+1957,45,1350,Gadwall,0
+1957,45,1370,American wigeon,11706.35
+1957,45,1390,Green-winged teal,0
+1957,45,1400,Blue-winged teal,181534.03
+1957,45,1420,Northern shoveler,40943.36
+1957,45,1430,Northern pintail,197785.19
+1957,45,1460,Redhead,18491.03
+1957,45,1470,Canvasback,7120.71
+1957,45,1499,Generic scaup,9822.92
+1957,45,1500,Ring-necked duck,552.96
+1957,45,1519,Generic goldeneye,0
+1957,45,1530,Bufflehead,0
+1957,45,1670,Ruddy duck,5741.19
+1957,45,1720,Canada goose,0
+1957,45,2210,American coot,21222.69
+1957,45,9991,Pond,110419.36
+1957,46,1320,Mallard,90016.74
+1957,46,1350,Gadwall,11950.73
+1957,46,1370,American wigeon,7807.07
+1957,46,1390,Green-winged teal,0
+1957,46,1400,Blue-winged teal,171554.57
+1957,46,1420,Northern shoveler,38931.73
+1957,46,1430,Northern pintail,105875.01
+1957,46,1460,Redhead,4819.93
+1957,46,1470,Canvasback,7150.18
+1957,46,1499,Generic scaup,7652.62
+1957,46,1500,Ring-necked duck,0
+1957,46,1519,Generic goldeneye,0
+1957,46,1530,Bufflehead,0
+1957,46,1670,Ruddy duck,5803.21
+1957,46,1720,Canada goose,0
+1957,46,2210,American coot,26696.26
+1957,46,9991,Pond,73578.02
+1958,45,1320,Mallard,259585
+1958,45,1350,Gadwall,16003
+1958,45,1370,American wigeon,17997
+1958,45,1390,Green-winged teal,0
+1958,45,1400,Blue-winged teal,274917
+1958,45,1420,Northern shoveler,48470
+1958,45,1430,Northern pintail,210158
+1958,45,1460,Redhead,21791
+1958,45,1470,Canvasback,14715
+1958,45,1499,Generic scaup,6381
+1958,45,1500,Ring-necked duck,0
+1958,45,1519,Generic goldeneye,0
+1958,45,1530,Bufflehead,0
+1958,45,1670,Ruddy duck,1579
+1958,45,1720,Canada goose,0
+1958,45,2210,American coot,34505
+1958,45,9991,Pond,132297
+1958,46,1320,Mallard,109798
+1958,46,1350,Gadwall,28776
+1958,46,1370,American wigeon,6683
+1958,46,1390,Green-winged teal,4502
+1958,46,1400,Blue-winged teal,231837
+1958,46,1420,Northern shoveler,14400
+1958,46,1430,Northern pintail,113722
+1958,46,1460,Redhead,12331
+1958,46,1470,Canvasback,15960
+1958,46,1499,Generic scaup,3492
+1958,46,1500,Ring-necked duck,0
+1958,46,1519,Generic goldeneye,0
+1958,46,1530,Bufflehead,0
+1958,46,1670,Ruddy duck,0
+1958,46,1720,Canada goose,0
+1958,46,2210,American coot,21019
+1958,46,9991,Pond,82616
+1959,45,1320,Mallard,86162
+1959,45,1350,Gadwall,4387
+1959,45,1370,American wigeon,12888
+1959,45,1390,Green-winged teal,0
+1959,45,1400,Blue-winged teal,170033
+1959,45,1420,Northern shoveler,36064
+1959,45,1430,Northern pintail,54729
+1959,45,1460,Redhead,9728
+1959,45,1470,Canvasback,0
+1959,45,1499,Generic scaup,2799
+1959,45,1500,Ring-necked duck,0
+1959,45,1519,Generic goldeneye,0
+1959,45,1530,Bufflehead,0
+1959,45,1670,Ruddy duck,9046
+1959,45,1720,Canada goose,0
+1959,45,2210,American coot,28444
+1959,45,9991,Pond,66316
+1959,46,1320,Mallard,51762
+1959,46,1350,Gadwall,9008
+1959,46,1370,American wigeon,12030
+1959,46,1390,Green-winged teal,0
+1959,46,1400,Blue-winged teal,130169
+1959,46,1420,Northern shoveler,9257
+1959,46,1430,Northern pintail,8027
+1959,46,1460,Redhead,5549
+1959,46,1470,Canvasback,6870
+1959,46,1499,Generic scaup,17511
+1959,46,1500,Ring-necked duck,0
+1959,46,1519,Generic goldeneye,0
+1959,46,1530,Bufflehead,0
+1959,46,1670,Ruddy duck,14777
+1959,46,1720,Canada goose,0
+1959,46,2210,American coot,65047
+1959,46,9991,Pond,22148
+1960,45,1320,Mallard,202572
+1960,45,1350,Gadwall,41236
+1960,45,1370,American wigeon,15231
+1960,45,1390,Green-winged teal,0
+1960,45,1400,Blue-winged teal,396744
+1960,45,1420,Northern shoveler,133437
+1960,45,1430,Northern pintail,503504
+1960,45,1460,Redhead,76746
+1960,45,1470,Canvasback,11922
+1960,45,1499,Generic scaup,31486
+1960,45,1500,Ring-necked duck,2939
+1960,45,1519,Generic goldeneye,0
+1960,45,1530,Bufflehead,0
+1960,45,1670,Ruddy duck,41120
+1960,45,1720,Canada goose,0
+1960,45,2210,American coot,69042
+1960,45,9991,Pond,241597
+1960,46,1320,Mallard,75290
+1960,46,1350,Gadwall,43915
+1960,46,1370,American wigeon,7519
+1960,46,1390,Green-winged teal,0
+1960,46,1400,Blue-winged teal,95713
+1960,46,1420,Northern shoveler,46285
+1960,46,1430,Northern pintail,122419
+1960,46,1460,Redhead,8324
+1960,46,1470,Canvasback,1249
+1960,46,1499,Generic scaup,7184
+1960,46,1500,Ring-necked duck,0
+1960,46,1519,Generic goldeneye,0
+1960,46,1530,Bufflehead,0
+1960,46,1670,Ruddy duck,3166
+1960,46,1720,Canada goose,0
+1960,46,2210,American coot,12943
+1960,46,9991,Pond,98717
+1961,45,1320,Mallard,120077
+1961,45,1350,Gadwall,37288
+1961,45,1370,American wigeon,3515
+1961,45,1390,Green-winged teal,4736
+1961,45,1400,Blue-winged teal,162575
+1961,45,1420,Northern shoveler,47604
+1961,45,1430,Northern pintail,163404
+1961,45,1460,Redhead,12971
+1961,45,1470,Canvasback,2433
+1961,45,1499,Generic scaup,9096
+1961,45,1500,Ring-necked duck,0
+1961,45,1519,Generic goldeneye,0
+1961,45,1530,Bufflehead,0
+1961,45,1670,Ruddy duck,3290
+1961,45,1720,Canada goose,0
+1961,45,2210,American coot,17066
+1961,45,9991,Pond,38212
+1961,46,1320,Mallard,76466
+1961,46,1350,Gadwall,19143
+1961,46,1370,American wigeon,1504
+1961,46,1390,Green-winged teal,2026
+1961,46,1400,Blue-winged teal,130169
+1961,46,1420,Northern shoveler,59245
+1961,46,1430,Northern pintail,76261
+1961,46,1460,Redhead,26358
+1961,46,1470,Canvasback,625
+1961,46,1499,Generic scaup,7184
+1961,46,1500,Ring-necked duck,0
+1961,46,1519,Generic goldeneye,0
+1961,46,1530,Bufflehead,0
+1961,46,1670,Ruddy duck,20054
+1961,46,1720,Canada goose,0
+1961,46,2210,American coot,32855
+1961,46,9991,Pond,26261
+1962,45,1320,Mallard,111827
+1962,45,1350,Gadwall,88614
+1962,45,1370,American wigeon,2343
+1962,45,1390,Green-winged teal,0
+1962,45,1400,Blue-winged teal,278914
+1962,45,1420,Northern shoveler,124060
+1962,45,1430,Northern pintail,203278
+1962,45,1460,Redhead,64856
+1962,45,1470,Canvasback,973
+1962,45,1499,Generic scaup,55276
+1962,45,1500,Ring-necked duck,0
+1962,45,1519,Generic goldeneye,0
+1962,45,1530,Bufflehead,0
+1962,45,1670,Ruddy duck,14803
+1962,45,1720,Canada goose,0
+1962,45,2210,American coot,57664
+1962,45,9991,Pond,132632
+1962,46,1320,Mallard,97642
+1962,46,1350,Gadwall,67562
+1962,46,1370,American wigeon,1504
+1962,46,1390,Green-winged teal,0
+1962,46,1400,Blue-winged teal,424964
+1962,46,1420,Northern shoveler,98125
+1962,46,1430,Northern pintail,212727
+1962,46,1460,Redhead,26358
+1962,46,1470,Canvasback,1249
+1962,46,1499,Generic scaup,20654
+1962,46,1500,Ring-necked duck,0
+1962,46,1519,Generic goldeneye,0
+1962,46,1530,Bufflehead,0
+1962,46,1670,Ruddy duck,12666
+1962,46,1720,Canada goose,0
+1962,46,2210,American coot,44471
+1962,46,9991,Pond,97135
+1963,45,1320,Mallard,257285
+1963,45,1350,Gadwall,111802
+1963,45,1370,American wigeon,6565
+1963,45,1390,Green-winged teal,0
+1963,45,1400,Blue-winged teal,228265
+1963,45,1420,Northern shoveler,67292
+1963,45,1430,Northern pintail,197867
+1963,45,1460,Redhead,26494
+1963,45,1470,Canvasback,8945
+1963,45,1499,Generic scaup,8218
+1963,45,1500,Ring-necked duck,858
+1963,45,1519,Generic goldeneye,0
+1963,45,1530,Bufflehead,0
+1963,45,1670,Ruddy duck,3360
+1963,45,1720,Canada goose,0
+1963,45,2210,American coot,15204
+1963,45,9991,Pond,194139
+1963,46,1320,Mallard,217566
+1963,46,1350,Gadwall,98350
+1963,46,1370,American wigeon,6188
+1963,46,1390,Green-winged teal,0
+1963,46,1400,Blue-winged teal,423865
+1963,46,1420,Northern shoveler,144968
+1963,46,1430,Northern pintail,104806
+1963,46,1460,Redhead,70752
+1963,46,1470,Canvasback,5621
+1963,46,1499,Generic scaup,4490
+1963,46,1500,Ring-necked duck,0
+1963,46,1519,Generic goldeneye,0
+1963,46,1530,Bufflehead,0
+1963,46,1670,Ruddy duck,14777
+1963,46,1720,Canada goose,0
+1963,46,2210,American coot,26573
+1963,46,9991,Pond,142094
+1964,45,1320,Mallard,213748
+1964,45,1350,Gadwall,45979
+1964,45,1370,American wigeon,3188
+1964,45,1390,Green-winged teal,0
+1964,45,1400,Blue-winged teal,322727
+1964,45,1420,Northern shoveler,58989
+1964,45,1430,Northern pintail,157048
+1964,45,1460,Redhead,43237
+1964,45,1470,Canvasback,14111
+1964,45,1499,Generic scaup,350
+1964,45,1500,Ring-necked duck,0
+1964,45,1519,Generic goldeneye,0
+1964,45,1530,Bufflehead,0
+1964,45,1670,Ruddy duck,3290
+1964,45,1720,Canada goose,0
+1964,45,2210,American coot,8505
+1964,45,9991,Pond,250656
+1964,46,1320,Mallard,42025
+1964,46,1350,Gadwall,37935
+1964,46,1370,American wigeon,1364
+1964,46,1390,Green-winged teal,0
+1964,46,1400,Blue-winged teal,228708
+1964,46,1420,Northern shoveler,41640
+1964,46,1430,Northern pintail,71665
+1964,46,1460,Redhead,15260
+1964,46,1470,Canvasback,3123
+1964,46,1499,Generic scaup,898
+1964,46,1500,Ring-necked duck,0
+1964,46,1519,Generic goldeneye,0
+1964,46,1530,Bufflehead,0
+1964,46,1670,Ruddy duck,2111
+1964,46,1720,Canada goose,0
+1964,46,2210,American coot,5695
+1964,46,9991,Pond,96879
+1965,45,1320,Mallard,239506
+1965,45,1350,Gadwall,124799
+1965,45,1370,American wigeon,0
+1965,45,1390,Green-winged teal,0
+1965,45,1400,Blue-winged teal,501077
+1965,45,1420,Northern shoveler,148948
+1965,45,1430,Northern pintail,252971
+1965,45,1460,Redhead,43237
+1965,45,1470,Canvasback,9245
+1965,45,1499,Generic scaup,8746
+1965,45,1500,Ring-necked duck,0
+1965,45,1519,Generic goldeneye,0
+1965,45,1530,Bufflehead,0
+1965,45,1670,Ruddy duck,2467
+1965,45,1720,Canada goose,0
+1965,45,2210,American coot,43142
+1965,45,9991,Pond,390944
+1965,46,1320,Mallard,116835
+1965,46,1350,Gadwall,95540
+1965,46,1370,American wigeon,0
+1965,46,1390,Green-winged teal,0
+1965,46,1400,Blue-winged teal,382182
+1965,46,1420,Northern shoveler,117348
+1965,46,1430,Northern pintail,189985
+1965,46,1460,Redhead,73526
+1965,46,1470,Canvasback,9368
+1965,46,1499,Generic scaup,1347
+1965,46,1500,Ring-necked duck,0
+1965,46,1519,Generic goldeneye,0
+1965,46,1530,Bufflehead,0
+1965,46,1670,Ruddy duck,6333
+1965,46,1720,Canada goose,0
+1965,46,2210,American coot,40115
+1965,46,9991,Pond,203428
+1966,45,1320,Mallard,198873
+1966,45,1350,Gadwall,119578
+1966,45,1370,American wigeon,11691
+1966,45,1390,Green-winged teal,34728
+1966,45,1400,Blue-winged teal,507067
+1966,45,1420,Northern shoveler,174802
+1966,45,1430,Northern pintail,214426
+1966,45,1460,Redhead,112416
+1966,45,1470,Canvasback,34305
+1966,45,1499,Generic scaup,4898
+1966,45,1500,Ring-necked duck,840
+1966,45,1519,Generic goldeneye,1202
+1966,45,1530,Bufflehead,0
+1966,45,1670,Ruddy duck,2467
+1966,45,1720,Canada goose,0
+1966,45,2210,American coot,52384
+1966,45,9991,Pond,279861
+1966,46,1320,Mallard,218187
+1966,46,1350,Gadwall,134399
+1966,46,1370,American wigeon,0
+1966,46,1390,Green-winged teal,22285
+1966,46,1400,Blue-winged teal,477383
+1966,46,1420,Northern shoveler,95874
+1966,46,1430,Northern pintail,238011
+1966,46,1460,Redhead,90174
+1966,46,1470,Canvasback,18735
+1966,46,1499,Generic scaup,5837
+1966,46,1500,Ring-necked duck,1617
+1966,46,1519,Generic goldeneye,0
+1966,46,1530,Bufflehead,0
+1966,46,1670,Ruddy duck,30609
+1966,46,1720,Canada goose,0
+1966,46,2210,American coot,84951
+1966,46,9991,Pond,192764
+1967,45,1320,Mallard,292286
+1967,45,1350,Gadwall,105522
+1967,45,1370,American wigeon,9474
+1967,45,1390,Green-winged teal,5412
+1967,45,1400,Blue-winged teal,499435
+1967,45,1420,Northern shoveler,218816
+1967,45,1430,Northern pintail,319502
+1967,45,1460,Redhead,79309
+1967,45,1470,Canvasback,16016
+1967,45,1499,Generic scaup,7437
+1967,45,1500,Ring-necked duck,0
+1967,45,1519,Generic goldeneye,0
+1967,45,1530,Bufflehead,0
+1967,45,1670,Ruddy duck,21993
+1967,45,1720,Canada goose,0
+1967,45,2210,American coot,92011
+1967,45,9991,Pond,472215
+1967,46,1320,Mallard,120071
+1967,46,1350,Gadwall,83868
+1967,46,1370,American wigeon,5456
+1967,46,1390,Green-winged teal,4052
+1967,46,1400,Blue-winged teal,492821
+1967,46,1420,Northern shoveler,136761
+1967,46,1430,Northern pintail,141748
+1967,46,1460,Redhead,83792
+1967,46,1470,Canvasback,10492
+1967,46,1499,Generic scaup,14009
+1967,46,1500,Ring-necked duck,0
+1967,46,1519,Generic goldeneye,0
+1967,46,1530,Bufflehead,0
+1967,46,1670,Ruddy duck,19843
+1967,46,1720,Canada goose,0
+1967,46,2210,American coot,97588
+1967,46,9991,Pond,255754
+1968,45,1320,Mallard,227481
+1968,45,1350,Gadwall,198459
+1968,45,1370,American wigeon,1271
+1968,45,1390,Green-winged teal,7687
+1968,45,1400,Blue-winged teal,399473
+1968,45,1420,Northern shoveler,115974
+1968,45,1430,Northern pintail,90771
+1968,45,1460,Redhead,60127
+1968,45,1470,Canvasback,11509
+1968,45,1499,Generic scaup,9005
+1968,45,1500,Ring-necked duck,0
+1968,45,1519,Generic goldeneye,0
+1968,45,1530,Bufflehead,0
+1968,45,1670,Ruddy duck,2861
+1968,45,1720,Canada goose,0
+1968,45,2210,American coot,65197
+1968,45,9991,Pond,190267
+1968,46,1320,Mallard,131916
+1968,46,1350,Gadwall,144959
+1968,46,1370,American wigeon,0
+1968,46,1390,Green-winged teal,4727
+1968,46,1400,Blue-winged teal,316988
+1968,46,1420,Northern shoveler,66038
+1968,46,1430,Northern pintail,61070
+1968,46,1460,Redhead,33165
+1968,46,1470,Canvasback,5829
+1968,46,1499,Generic scaup,7633
+1968,46,1500,Ring-necked duck,0
+1968,46,1519,Generic goldeneye,0
+1968,46,1530,Bufflehead,0
+1968,46,1670,Ruddy duck,12666
+1968,46,1720,Canada goose,0
+1968,46,2210,American coot,57094
+1968,46,9991,Pond,148146
+1969,45,1320,Mallard,241448
+1969,45,1350,Gadwall,191496
+1969,45,1370,American wigeon,18734
+1969,45,1390,Green-winged teal,48317
+1969,45,1400,Blue-winged teal,484734
+1969,45,1420,Northern shoveler,183476
+1969,45,1430,Northern pintail,441204
+1969,45,1460,Redhead,87639
+1969,45,1470,Canvasback,37912
+1969,45,1499,Generic scaup,20687
+1969,45,1500,Ring-necked duck,584
+1969,45,1519,Generic goldeneye,0
+1969,45,1530,Bufflehead,0
+1969,45,1670,Ruddy duck,17735
+1969,45,1720,Canada goose,0
+1969,45,2210,American coot,65734
+1969,45,9991,Pond,387920
+1969,46,1320,Mallard,114406
+1969,46,1350,Gadwall,116964
+1969,46,1370,American wigeon,4574
+1969,46,1390,Green-winged teal,17220
+1969,46,1400,Blue-winged teal,333460
+1969,46,1420,Northern shoveler,73133
+1969,46,1430,Northern pintail,195357
+1969,46,1460,Redhead,86917
+1969,46,1470,Canvasback,18215
+1969,46,1499,Generic scaup,12871
+1969,46,1500,Ring-necked duck,0
+1969,46,1519,Generic goldeneye,0
+1969,46,1530,Bufflehead,0
+1969,46,1670,Ruddy duck,25684
+1969,46,1720,Canada goose,0
+1969,46,2210,American coot,56322
+1969,46,9991,Pond,202062
+1970,45,1320,Mallard,507743
+1970,45,1350,Gadwall,250079
+1970,45,1370,American wigeon,15327
+1970,45,1390,Green-winged teal,84006
+1970,45,1400,Blue-winged teal,470677
+1970,45,1420,Northern shoveler,329766
+1970,45,1430,Northern pintail,560269
+1970,45,1460,Redhead,85639
+1970,45,1470,Canvasback,15571
+1970,45,1499,Generic scaup,14846
+1970,45,1500,Ring-necked duck,876
+1970,45,1519,Generic goldeneye,0
+1970,45,1530,Bufflehead,494
+1970,45,1670,Ruddy duck,77807
+1970,45,1720,Canada goose,0
+1970,45,2210,American coot,105850
+1970,45,9991,Pond,563946
+1970,46,1320,Mallard,129192
+1970,46,1350,Gadwall,110928
+1970,46,1370,American wigeon,2018
+1970,46,1390,Green-winged teal,41892
+1970,46,1400,Blue-winged teal,174317
+1970,46,1420,Northern shoveler,77223
+1970,46,1430,Northern pintail,145234
+1970,46,1460,Redhead,67840
+1970,46,1470,Canvasback,8468
+1970,46,1499,Generic scaup,10198
+1970,46,1500,Ring-necked duck,731
+1970,46,1519,Generic goldeneye,0
+1970,46,1530,Bufflehead,309
+1970,46,1670,Ruddy duck,8229
+1970,46,1720,Canada goose,0
+1970,46,2210,American coot,50331
+1970,46,9991,Pond,181716
+1971,45,1320,Mallard,573648
+1971,45,1350,Gadwall,243980
+1971,45,1370,American wigeon,15521
+1971,45,1390,Green-winged teal,16472
+1971,45,1400,Blue-winged teal,873099
+1971,45,1420,Northern shoveler,152040
+1971,45,1430,Northern pintail,569385
+1971,45,1460,Redhead,81576
+1971,45,1470,Canvasback,11171
+1971,45,1499,Generic scaup,17279
+1971,45,1500,Ring-necked duck,876
+1971,45,1519,Generic goldeneye,0
+1971,45,1530,Bufflehead,0
+1971,45,1670,Ruddy duck,29750
+1971,45,1720,Canada goose,0
+1971,45,2210,American coot,112181
+1971,45,9991,Pond,437183
+1971,46,1320,Mallard,110823
+1971,46,1350,Gadwall,104469
+1971,46,1370,American wigeon,1497
+1971,46,1390,Green-winged teal,5403
+1971,46,1400,Blue-winged teal,281117
+1971,46,1420,Northern shoveler,38524
+1971,46,1430,Northern pintail,80529
+1971,46,1460,Redhead,41426
+1971,46,1470,Canvasback,3539
+1971,46,1499,Generic scaup,10626
+1971,46,1500,Ring-necked duck,180
+1971,46,1519,Generic goldeneye,0
+1971,46,1530,Bufflehead,0
+1971,46,1670,Ruddy duck,17240
+1971,46,1720,Canada goose,0
+1971,46,2210,American coot,27416
+1971,46,9991,Pond,104590
+1972,45,1320,Mallard,431991
+1972,45,1350,Gadwall,227801
+1972,45,1370,American wigeon,6711
+1972,45,1390,Green-winged teal,27230
+1972,45,1400,Blue-winged teal,420062
+1972,45,1420,Northern shoveler,182648
+1972,45,1430,Northern pintail,429305
+1972,45,1460,Redhead,83960
+1972,45,1470,Canvasback,19342
+1972,45,1499,Generic scaup,20466
+1972,45,1500,Ring-necked duck,315
+1972,45,1519,Generic goldeneye,0
+1972,45,1530,Bufflehead,0
+1972,45,1670,Ruddy duck,40709
+1972,45,1720,Canada goose,0
+1972,45,2210,American coot,92086
+1972,45,9991,Pond,374207
+1972,46,1320,Mallard,93619
+1972,46,1350,Gadwall,104106
+1972,46,1370,American wigeon,5264
+1972,46,1390,Green-winged teal,12831
+1972,46,1400,Blue-winged teal,240661
+1972,46,1420,Northern shoveler,74417
+1972,46,1430,Northern pintail,144859
+1972,46,1460,Redhead,42948
+1972,46,1470,Canvasback,9055
+1972,46,1499,Generic scaup,7184
+1972,46,1500,Ring-necked duck,359
+1972,46,1519,Generic goldeneye,0
+1972,46,1530,Bufflehead,0
+1972,46,1670,Ruddy duck,14425
+1972,46,1720,Canada goose,0
+1972,46,2210,American coot,48533
+1972,46,9991,Pond,163736
+1973,45,1320,Mallard,346294
+1973,45,1350,Gadwall,143377
+1973,45,1370,American wigeon,9895
+1973,45,1390,Green-winged teal,16472
+1973,45,1400,Blue-winged teal,407456
+1973,45,1420,Northern shoveler,74403
+1973,45,1430,Northern pintail,138236
+1973,45,1460,Redhead,66828
+1973,45,1470,Canvasback,22849
+1973,45,1499,Generic scaup,9745
+1973,45,1500,Ring-necked duck,0
+1973,45,1519,Generic goldeneye,0
+1973,45,1530,Bufflehead,494
+1973,45,1670,Ruddy duck,32038
+1973,45,1720,Canada goose,2845.78
+1973,45,2210,American coot,69199
+1973,45,9991,Pond,161406
+1973,46,1320,Mallard,102757
+1973,46,1350,Gadwall,71464
+1973,46,1370,American wigeon,573
+1973,46,1390,Green-winged teal,4135
+1973,46,1400,Blue-winged teal,148707
+1973,46,1420,Northern shoveler,31459
+1973,46,1430,Northern pintail,61304
+1973,46,1460,Redhead,26275
+1973,46,1470,Canvasback,3824
+1973,46,1499,Generic scaup,8330
+1973,46,1500,Ring-necked duck,0
+1973,46,1519,Generic goldeneye,0
+1973,46,1530,Bufflehead,0
+1973,46,1670,Ruddy duck,7755
+1973,46,1720,Canada goose,357.16
+1973,46,2210,American coot,21159
+1973,46,9991,Pond,52055
+1974,45,1320,Mallard,297006
+1974,45,1350,Gadwall,121120
+1974,45,1370,American wigeon,35019
+1974,45,1390,Green-winged teal,43925
+1974,45,1400,Blue-winged teal,767981
+1974,45,1420,Northern shoveler,147406
+1974,45,1430,Northern pintail,337591
+1974,45,1460,Redhead,69764
+1974,45,1470,Canvasback,46956
+1974,45,1499,Generic scaup,28383
+1974,45,1500,Ring-necked duck,584
+1974,45,1519,Generic goldeneye,0
+1974,45,1530,Bufflehead,0
+1974,45,1670,Ruddy duck,104696
+1974,45,1720,Canada goose,0
+1974,45,2210,American coot,266297
+1974,45,9991,Pond,950890
+1974,46,1320,Mallard,85423
+1974,46,1350,Gadwall,72377
+1974,46,1370,American wigeon,3657
+1974,46,1390,Green-winged teal,16545
+1974,46,1400,Blue-winged teal,302470
+1974,46,1420,Northern shoveler,40077
+1974,46,1430,Northern pintail,106362
+1974,46,1460,Redhead,40470
+1974,46,1470,Canvasback,15110
+1974,46,1499,Generic scaup,6866
+1974,46,1500,Ring-necked duck,0
+1974,46,1519,Generic goldeneye,0
+1974,46,1530,Bufflehead,0
+1974,46,1670,Ruddy duck,62274
+1974,46,1720,Canada goose,875.04
+1974,46,2210,American coot,64852
+1974,46,9991,Pond,179262
+1975,45,1320,Mallard,289900
+1975,45,1350,Gadwall,203359
+1975,45,1370,American wigeon,39972
+1975,45,1390,Green-winged teal,40630
+1975,45,1400,Blue-winged teal,643081
+1975,45,1420,Northern shoveler,140329
+1975,45,1430,Northern pintail,277885
+1975,45,1460,Redhead,147541
+1975,45,1470,Canvasback,33367
+1975,45,1499,Generic scaup,49776
+1975,45,1500,Ring-necked duck,1168
+1975,45,1519,Generic goldeneye,0
+1975,45,1530,Bufflehead,0
+1975,45,1670,Ruddy duck,80053
+1975,45,1720,Canada goose,2371.49
+1975,45,2210,American coot,319088
+1975,45,9991,Pond,703416
+1975,46,1320,Mallard,90662
+1975,46,1350,Gadwall,80276
+1975,46,1370,American wigeon,16640
+1975,46,1390,Green-winged teal,3896
+1975,46,1400,Blue-winged teal,293202
+1975,46,1420,Northern shoveler,41797
+1975,46,1430,Northern pintail,105383
+1975,46,1460,Redhead,66899
+1975,46,1470,Canvasback,5919
+1975,46,1499,Generic scaup,9800
+1975,46,1500,Ring-necked duck,0
+1975,46,1519,Generic goldeneye,0
+1975,46,1530,Bufflehead,0
+1975,46,1670,Ruddy duck,45083
+1975,46,1720,Canada goose,336.55
+1975,46,2210,American coot,142235
+1975,46,9991,Pond,285953
+1976,45,1320,Mallard,208317
+1976,45,1350,Gadwall,34041
+1976,45,1370,American wigeon,30264
+1976,45,1390,Green-winged teal,1098
+1976,45,1400,Blue-winged teal,157248
+1976,45,1420,Northern shoveler,46957
+1976,45,1430,Northern pintail,107666
+1976,45,1460,Redhead,31998
+1976,45,1470,Canvasback,5845
+1976,45,1499,Generic scaup,35677
+1976,45,1500,Ring-necked duck,584
+1976,45,1519,Generic goldeneye,0
+1976,45,1530,Bufflehead,0
+1976,45,1670,Ruddy duck,17789
+1976,45,1720,Canada goose,948.59
+1976,45,2210,American coot,56039
+1976,45,9991,Pond,505099
+1976,46,1320,Mallard,106708
+1976,46,1350,Gadwall,22852
+1976,46,1370,American wigeon,8729
+1976,46,1390,Green-winged teal,2701
+1976,46,1400,Blue-winged teal,104561
+1976,46,1420,Northern shoveler,24220
+1976,46,1430,Northern pintail,55320
+1976,46,1460,Redhead,21523
+1976,46,1470,Canvasback,3973
+1976,46,1499,Generic scaup,11678
+1976,46,1500,Ring-necked duck,539
+1976,46,1519,Generic goldeneye,0
+1976,46,1530,Bufflehead,0
+1976,46,1670,Ruddy duck,5049
+1976,46,1720,Canada goose,0
+1976,46,2210,American coot,22413
+1976,46,9991,Pond,221770
+1977,45,1320,Mallard,149351
+1977,45,1350,Gadwall,78641
+1977,45,1370,American wigeon,12848
+1977,45,1390,Green-winged teal,0
+1977,45,1400,Blue-winged teal,101030
+1977,45,1420,Northern shoveler,40314
+1977,45,1430,Northern pintail,41027
+1977,45,1460,Redhead,22812
+1977,45,1470,Canvasback,6937
+1977,45,1499,Generic scaup,17551
+1977,45,1500,Ring-necked duck,292
+1977,45,1519,Generic goldeneye,0
+1977,45,1530,Bufflehead,0
+1977,45,1670,Ruddy duck,16819
+1977,45,1720,Canada goose,1660.04
+1977,45,2210,American coot,36447
+1977,45,9991,Pond,179186
+1977,46,1320,Mallard,52385
+1977,46,1350,Gadwall,17766
+1977,46,1370,American wigeon,3698
+1977,46,1390,Green-winged teal,1351
+1977,46,1400,Blue-winged teal,48492
+1977,46,1420,Northern shoveler,16305
+1977,46,1430,Northern pintail,15419
+1977,46,1460,Redhead,8212
+1977,46,1470,Canvasback,1517
+1977,46,1499,Generic scaup,1062
+1977,46,1500,Ring-necked duck,1078
+1977,46,1519,Generic goldeneye,0
+1977,46,1530,Bufflehead,0
+1977,46,1670,Ruddy duck,4310
+1977,46,1720,Canada goose,291.68
+1977,46,2210,American coot,8302
+1977,46,9991,Pond,60127
+1978,45,1320,Mallard,237526
+1978,45,1350,Gadwall,109484
+1978,45,1370,American wigeon,17367
+1978,45,1390,Green-winged teal,10981
+1978,45,1400,Blue-winged teal,269047
+1978,45,1420,Northern shoveler,125982
+1978,45,1430,Northern pintail,261453
+1978,45,1460,Redhead,97306
+1978,45,1470,Canvasback,8722
+1978,45,1499,Generic scaup,43060
+1978,45,1500,Ring-necked duck,584
+1978,45,1519,Generic goldeneye,0
+1978,45,1530,Bufflehead,0
+1978,45,1670,Ruddy duck,78042
+1978,45,1720,Canada goose,948.59
+1978,45,2210,American coot,109640
+1978,45,9991,Pond,304209
+1978,46,1320,Mallard,131678
+1978,46,1350,Gadwall,75177
+1978,46,1370,American wigeon,12058
+1978,46,1390,Green-winged teal,2701
+1978,46,1400,Blue-winged teal,341010
+1978,46,1420,Northern shoveler,97025
+1978,46,1430,Northern pintail,206305
+1978,46,1460,Redhead,92920
+1978,46,1470,Canvasback,6928
+1978,46,1499,Generic scaup,37854
+1978,46,1500,Ring-necked duck,1258
+1978,46,1519,Generic goldeneye,0
+1978,46,1530,Bufflehead,304
+1978,46,1670,Ruddy duck,45225
+1978,46,1720,Canada goose,0
+1978,46,2210,American coot,213577
+1978,46,9991,Pond,195207
+1979,45,1320,Mallard,342414
+1979,45,1350,Gadwall,224224
+1979,45,1370,American wigeon,21593
+1979,45,1390,Green-winged teal,2745
+1979,45,1400,Blue-winged teal,357577
+1979,45,1420,Northern shoveler,230020
+1979,45,1430,Northern pintail,282688
+1979,45,1460,Redhead,108295
+1979,45,1470,Canvasback,23687
+1979,45,1499,Generic scaup,41125
+1979,45,1500,Ring-necked duck,0
+1979,45,1519,Generic goldeneye,0
+1979,45,1530,Bufflehead,494
+1979,45,1670,Ruddy duck,46090
+1979,45,1720,Canada goose,2371.49
+1979,45,2210,American coot,666883
+1979,45,9991,Pond,447428
+1979,46,1320,Mallard,161861
+1979,46,1350,Gadwall,75744
+1979,46,1370,American wigeon,11219
+1979,46,1390,Green-winged teal,6078
+1979,46,1400,Blue-winged teal,310171
+1979,46,1420,Northern shoveler,149877
+1979,46,1430,Northern pintail,144081
+1979,46,1460,Redhead,79848
+1979,46,1470,Canvasback,8497
+1979,46,1499,Generic scaup,42925
+1979,46,1500,Ring-necked duck,539
+1979,46,1519,Generic goldeneye,0
+1979,46,1530,Bufflehead,608
+1979,46,1670,Ruddy duck,34744
+1979,46,1720,Canada goose,291.68
+1979,46,2210,American coot,482139
+1979,46,9991,Pond,268503
+1980,45,1320,Mallard,302176
+1980,45,1350,Gadwall,145208
+1980,45,1370,American wigeon,52315
+1980,45,1390,Green-winged teal,59445
+1980,45,1400,Blue-winged teal,547371
+1980,45,1420,Northern shoveler,112454
+1980,45,1430,Northern pintail,203446
+1980,45,1460,Redhead,88664
+1980,45,1470,Canvasback,23501
+1980,45,1499,Generic scaup,40982
+1980,45,1500,Ring-necked duck,2921
+1980,45,1519,Generic goldeneye,0
+1980,45,1530,Bufflehead,494
+1980,45,1670,Ruddy duck,72402
+1980,45,1720,Canada goose,2845.78
+1980,45,2210,American coot,181609
+1980,45,9991,Pond,179548
+1980,46,1320,Mallard,106604
+1980,46,1350,Gadwall,69678
+1980,46,1370,American wigeon,21549
+1980,46,1390,Green-winged teal,30694
+1980,46,1400,Blue-winged teal,289707
+1980,46,1420,Northern shoveler,59664
+1980,46,1430,Northern pintail,65772
+1980,46,1460,Redhead,34030
+1980,46,1470,Canvasback,3385
+1980,46,1499,Generic scaup,5147
+1980,46,1500,Ring-necked duck,719
+1980,46,1519,Generic goldeneye,0
+1980,46,1530,Bufflehead,912
+1980,46,1670,Ruddy duck,38960
+1980,46,1720,Canada goose,875.04
+1980,46,2210,American coot,201471
+1980,46,9991,Pond,89437
+1981,45,1320,Mallard,176708
+1981,45,1350,Gadwall,138019
+1981,45,1370,American wigeon,88810
+1981,45,1390,Green-winged teal,17679
+1981,45,1400,Blue-winged teal,174538
+1981,45,1420,Northern shoveler,159599
+1981,45,1430,Northern pintail,87151
+1981,45,1460,Redhead,51638
+1981,45,1470,Canvasback,25815
+1981,45,1499,Generic scaup,99040
+1981,45,1500,Ring-necked duck,0
+1981,45,1519,Generic goldeneye,0
+1981,45,1530,Bufflehead,989
+1981,45,1670,Ruddy duck,199425
+1981,45,1720,Canada goose,5928.72
+1981,45,2210,American coot,302972
+1981,45,9991,Pond,208371
+1981,46,1320,Mallard,29438
+1981,46,1350,Gadwall,62197
+1981,46,1370,American wigeon,26622
+1981,46,1390,Green-winged teal,6455
+1981,46,1400,Blue-winged teal,43659
+1981,46,1420,Northern shoveler,41610
+1981,46,1430,Northern pintail,22840
+1981,46,1460,Redhead,20221
+1981,46,1470,Canvasback,6134
+1981,46,1499,Generic scaup,7383
+1981,46,1500,Ring-necked duck,0
+1981,46,1519,Generic goldeneye,0
+1981,46,1530,Bufflehead,0
+1981,46,1670,Ruddy duck,38155
+1981,46,1720,Canada goose,875.04
+1981,46,2210,American coot,49669
+1981,46,9991,Pond,55160
+1982,45,1320,Mallard,219054
+1982,45,1350,Gadwall,219324
+1982,45,1370,American wigeon,10898
+1982,45,1390,Green-winged teal,24312
+1982,45,1400,Blue-winged teal,425527
+1982,45,1420,Northern shoveler,183614
+1982,45,1430,Northern pintail,173759
+1982,45,1460,Redhead,169781
+1982,45,1470,Canvasback,21887
+1982,45,1499,Generic scaup,73881
+1982,45,1500,Ring-necked duck,4090
+1982,45,1519,Generic goldeneye,0
+1982,45,1530,Bufflehead,0
+1982,45,1670,Ruddy duck,139284
+1982,45,1720,Canada goose,7588.76
+1982,45,2210,American coot,343178
+1982,45,9991,Pond,443160
+1982,46,1320,Mallard,93790
+1982,46,1350,Gadwall,115822
+1982,46,1370,American wigeon,8130
+1982,46,1390,Green-winged teal,10590
+1982,46,1400,Blue-winged teal,292925
+1982,46,1420,Northern shoveler,133937
+1982,46,1430,Northern pintail,91936
+1982,46,1460,Redhead,85986
+1982,46,1470,Canvasback,10523
+1982,46,1499,Generic scaup,16233
+1982,46,1500,Ring-necked duck,2515
+1982,46,1519,Generic goldeneye,0
+1982,46,1530,Bufflehead,0
+1982,46,1670,Ruddy duck,216395
+1982,46,1720,Canada goose,7583.71
+1982,46,2210,American coot,202505
+1982,46,9991,Pond,183407
+1983,45,1320,Mallard,174279
+1983,45,1350,Gadwall,279820
+1983,45,1370,American wigeon,13897
+1983,45,1390,Green-winged teal,6810
+1983,45,1400,Blue-winged teal,237144
+1983,45,1420,Northern shoveler,98156
+1983,45,1430,Northern pintail,175630
+1983,45,1460,Redhead,132761
+1983,45,1470,Canvasback,7893
+1983,45,1499,Generic scaup,57254
+1983,45,1500,Ring-necked duck,55211
+1983,45,1519,Generic goldeneye,2509
+1983,45,1530,Bufflehead,2472
+1983,45,1670,Ruddy duck,80060
+1983,45,1720,Canada goose,6640.17
+1983,45,2210,American coot,180868
+1983,45,9991,Pond,398146
+1983,46,1320,Mallard,104895
+1983,46,1350,Gadwall,117520
+1983,46,1370,American wigeon,15069
+1983,46,1390,Green-winged teal,6581
+1983,46,1400,Blue-winged teal,178003
+1983,46,1420,Northern shoveler,53837
+1983,46,1430,Northern pintail,101762
+1983,46,1460,Redhead,80699
+1983,46,1470,Canvasback,2966
+1983,46,1499,Generic scaup,27365
+1983,46,1500,Ring-necked duck,44732
+1983,46,1519,Generic goldeneye,0
+1983,46,1530,Bufflehead,1216
+1983,46,1670,Ruddy duck,102409
+1983,46,1720,Canada goose,2625.13
+1983,46,2210,American coot,172125
+1983,46,9991,Pond,147520
+1984,45,1320,Mallard,314238
+1984,45,1350,Gadwall,364151
+1984,45,1370,American wigeon,14395
+1984,45,1390,Green-winged teal,7383
+1984,45,1400,Blue-winged teal,425872
+1984,45,1420,Northern shoveler,135981
+1984,45,1430,Northern pintail,183294
+1984,45,1460,Redhead,100715
+1984,45,1470,Canvasback,32869
+1984,45,1499,Generic scaup,70709
+1984,45,1500,Ring-necked duck,9640
+1984,45,1519,Generic goldeneye,836
+1984,45,1530,Bufflehead,1483
+1984,45,1670,Ruddy duck,152651
+1984,45,1720,Canada goose,10434.55
+1984,45,2210,American coot,391561
+1984,45,9991,Pond,554579
+1984,46,1320,Mallard,124451
+1984,46,1350,Gadwall,123473
+1984,46,1370,American wigeon,11550
+1984,46,1390,Green-winged teal,3892
+1984,46,1400,Blue-winged teal,340766
+1984,46,1420,Northern shoveler,83348
+1984,46,1430,Northern pintail,116810
+1984,46,1460,Redhead,65570
+1984,46,1470,Canvasback,15492
+1984,46,1499,Generic scaup,23855
+1984,46,1500,Ring-necked duck,1437
+1984,46,1519,Generic goldeneye,514
+1984,46,1530,Bufflehead,3649
+1984,46,1670,Ruddy duck,98600
+1984,46,1720,Canada goose,2041.76
+1984,46,2210,American coot,440659
+1984,46,9991,Pond,269246
+1985,45,1320,Mallard,216689
+1985,45,1350,Gadwall,164819
+1985,45,1370,American wigeon,33517
+1985,45,1390,Green-winged teal,32550
+1985,45,1400,Blue-winged teal,289239
+1985,45,1420,Northern shoveler,92271
+1985,45,1430,Northern pintail,126846
+1985,45,1460,Redhead,72887
+1985,45,1470,Canvasback,14946
+1985,45,1499,Generic scaup,72310
+1985,45,1500,Ring-necked duck,2921
+1985,45,1519,Generic goldeneye,0
+1985,45,1530,Bufflehead,494
+1985,45,1670,Ruddy duck,87551
+1985,45,1720,Canada goose,7114.47
+1985,45,2210,American coot,140315
+1985,45,9991,Pond,355475
+1985,46,1320,Mallard,81788
+1985,46,1350,Gadwall,86155
+1985,46,1370,American wigeon,12147
+1985,46,1390,Green-winged teal,21090
+1985,46,1400,Blue-winged teal,157836
+1985,46,1420,Northern shoveler,33419
+1985,46,1430,Northern pintail,45728
+1985,46,1460,Redhead,41230
+1985,46,1470,Canvasback,5170
+1985,46,1499,Generic scaup,29274
+1985,46,1500,Ring-necked duck,539
+1985,46,1519,Generic goldeneye,0
+1985,46,1530,Bufflehead,0
+1985,46,1670,Ruddy duck,24381
+1985,46,1720,Canada goose,2333.45
+1985,46,2210,American coot,91792
+1985,46,9991,Pond,126586
+1986,45,1320,Mallard,241743
+1986,45,1350,Gadwall,166840
+1986,45,1370,American wigeon,11800
+1986,45,1390,Green-winged teal,4966
+1986,45,1400,Blue-winged teal,429369
+1986,45,1420,Northern shoveler,131402
+1986,45,1430,Northern pintail,136869
+1986,45,1460,Redhead,52733
+1986,45,1470,Canvasback,26911
+1986,45,1499,Generic scaup,80153
+1986,45,1500,Ring-necked duck,4382
+1986,45,1519,Generic goldeneye,0
+1986,45,1530,Bufflehead,494
+1986,45,1670,Ruddy duck,108975
+1986,45,1720,Canada goose,10908.85
+1986,45,2210,American coot,191030
+1986,45,9991,Pond,381156
+1986,46,1320,Mallard,114144
+1986,46,1350,Gadwall,88402
+1986,46,1370,American wigeon,5607
+1986,46,1390,Green-winged teal,8552
+1986,46,1400,Blue-winged teal,332349
+1986,46,1420,Northern shoveler,97009
+1986,46,1430,Northern pintail,82033
+1986,46,1460,Redhead,46350
+1986,46,1470,Canvasback,9413
+1986,46,1499,Generic scaup,33453
+1986,46,1500,Ring-necked duck,4850
+1986,46,1519,Generic goldeneye,0
+1986,46,1530,Bufflehead,304
+1986,46,1670,Ruddy duck,58821
+1986,46,1720,Canada goose,1750.08
+1986,46,2210,American coot,114648
+1986,46,9991,Pond,201734
+1987,45,1320,Mallard,331565
+1987,45,1350,Gadwall,179681
+1987,45,1370,American wigeon,26283
+1987,45,1390,Green-winged teal,21715
+1987,45,1400,Blue-winged teal,301798
+1987,45,1420,Northern shoveler,139465
+1987,45,1430,Northern pintail,81663
+1987,45,1460,Redhead,68500
+1987,45,1470,Canvasback,21528
+1987,45,1499,Generic scaup,64084
+1987,45,1500,Ring-necked duck,1753
+1987,45,1519,Generic goldeneye,0
+1987,45,1530,Bufflehead,0
+1987,45,1670,Ruddy duck,85835
+1987,45,1720,Canada goose,9011.66
+1987,45,2210,American coot,325429
+1987,45,9991,Pond,281189
+1987,46,1320,Mallard,117651
+1987,46,1350,Gadwall,74986
+1987,46,1370,American wigeon,5184
+1987,46,1390,Green-winged teal,7284
+1987,46,1400,Blue-winged teal,201764
+1987,46,1420,Northern shoveler,84894
+1987,46,1430,Northern pintail,51243
+1987,46,1460,Redhead,28985
+1987,46,1470,Canvasback,7165
+1987,46,1499,Generic scaup,17606
+1987,46,1500,Ring-necked duck,1437
+1987,46,1519,Generic goldeneye,1029
+1987,46,1530,Bufflehead,0
+1987,46,1670,Ruddy duck,28015
+1987,46,1720,Canada goose,2625.13
+1987,46,2210,American coot,195233
+1987,46,9991,Pond,170431
+1988,45,1320,Mallard,178286
+1988,45,1350,Gadwall,154861
+1988,45,1370,American wigeon,17578
+1988,45,1390,Green-winged teal,17568
+1988,45,1400,Blue-winged teal,255477
+1988,45,1420,Northern shoveler,49920
+1988,45,1430,Northern pintail,62698
+1988,45,1460,Redhead,24599
+1988,45,1470,Canvasback,14372
+1988,45,1499,Generic scaup,40607
+1988,45,1500,Ring-necked duck,2629
+1988,45,1519,Generic goldeneye,0
+1988,45,1530,Bufflehead,494
+1988,45,1670,Ruddy duck,5161
+1988,45,1720,Canada goose,9485.96
+1988,45,2210,American coot,150722
+1988,45,9991,Pond,135420
+1988,46,1320,Mallard,98256
+1988,46,1350,Gadwall,95096
+1988,46,1370,American wigeon,16287
+1988,46,1390,Green-winged teal,7757
+1988,46,1400,Blue-winged teal,204422
+1988,46,1420,Northern shoveler,38666
+1988,46,1430,Northern pintail,52945
+1988,46,1460,Redhead,30157
+1988,46,1470,Canvasback,4419
+1988,46,1499,Generic scaup,35255
+1988,46,1500,Ring-necked duck,898
+1988,46,1519,Generic goldeneye,0
+1988,46,1530,Bufflehead,0
+1988,46,1670,Ruddy duck,7478
+1988,46,1720,Canada goose,2916.81
+1988,46,2210,American coot,251843
+1988,46,9991,Pond,74764
+1989,45,1320,Mallard,184764
+1989,45,1350,Gadwall,143633
+1989,45,1370,American wigeon,7524
+1989,45,1390,Green-winged teal,5993
+1989,45,1400,Blue-winged teal,165927
+1989,45,1420,Northern shoveler,86457
+1989,45,1430,Northern pintail,53994
+1989,45,1460,Redhead,73615
+1989,45,1470,Canvasback,27108
+1989,45,1499,Generic scaup,23484
+1989,45,1500,Ring-necked duck,5550
+1989,45,1519,Generic goldeneye,0
+1989,45,1530,Bufflehead,494
+1989,45,1670,Ruddy duck,34400
+1989,45,1720,Canada goose,18023.32
+1989,45,2210,American coot,106906
+1989,45,9991,Pond,198556
+1989,46,1320,Mallard,87596
+1989,46,1350,Gadwall,96817
+1989,46,1370,American wigeon,817
+1989,46,1390,Green-winged teal,527
+1989,46,1400,Blue-winged teal,123656
+1989,46,1420,Northern shoveler,60623
+1989,46,1430,Northern pintail,35133
+1989,46,1460,Redhead,47737
+1989,46,1470,Canvasback,10699
+1989,46,1499,Generic scaup,12701
+1989,46,1500,Ring-necked duck,5389
+1989,46,1519,Generic goldeneye,0
+1989,46,1530,Bufflehead,304
+1989,46,1670,Ruddy duck,20012
+1989,46,1720,Canada goose,4375.21
+1989,46,2210,American coot,100595
+1989,46,9991,Pond,117511
+1990,45,1320,Mallard,52318
+1990,45,1350,Gadwall,161507
+1990,45,1370,American wigeon,1757
+1990,45,1390,Green-winged teal,0
+1990,45,1400,Blue-winged teal,79318
+1990,45,1420,Northern shoveler,27457
+1990,45,1430,Northern pintail,11384
+1990,45,1460,Redhead,13243
+1990,45,1470,Canvasback,5655
+1990,45,1499,Generic scaup,22621
+1990,45,1500,Ring-necked duck,2921
+1990,45,1519,Generic goldeneye,0
+1990,45,1530,Bufflehead,494
+1990,45,1670,Ruddy duck,32610
+1990,45,1720,Canada goose,16600.43
+1990,45,2210,American coot,70506
+1990,45,9991,Pond,64885
+1990,46,1320,Mallard,33922
+1990,46,1350,Gadwall,94619
+1990,46,1370,American wigeon,1081
+1990,46,1390,Green-winged teal,2100
+1990,46,1400,Blue-winged teal,83553
+1990,46,1420,Northern shoveler,24850
+1990,46,1430,Northern pintail,14002
+1990,46,1460,Redhead,3715
+1990,46,1470,Canvasback,3974
+1990,46,1499,Generic scaup,17513
+1990,46,1500,Ring-necked duck,3234
+1990,46,1519,Generic goldeneye,0
+1990,46,1530,Bufflehead,0
+1990,46,1670,Ruddy duck,29906
+1990,46,1720,Canada goose,6854.5
+1990,46,2210,American coot,55242
+1990,46,9991,Pond,39496
+1991,45,1320,Mallard,115134
+1991,45,1350,Gadwall,91692
+1991,45,1370,American wigeon,3544
+1991,45,1390,Green-winged teal,0
+1991,45,1400,Blue-winged teal,76782
+1991,45,1420,Northern shoveler,40547
+1991,45,1430,Northern pintail,20673
+1991,45,1460,Redhead,6553
+1991,45,1470,Canvasback,7098
+1991,45,1499,Generic scaup,34250
+1991,45,1500,Ring-necked duck,0
+1991,45,1519,Generic goldeneye,0
+1991,45,1530,Bufflehead,511
+1991,45,1670,Ruddy duck,2645
+1991,45,1720,Canada goose,6165.87
+1991,45,2210,American coot,6378
+1991,45,9991,Pond,59142
+1991,46,1320,Mallard,61599
+1991,46,1350,Gadwall,65568
+1991,46,1370,American wigeon,5449
+1991,46,1390,Green-winged teal,3451
+1991,46,1400,Blue-winged teal,71456
+1991,46,1420,Northern shoveler,20196
+1991,46,1430,Northern pintail,18255
+1991,46,1460,Redhead,7749
+1991,46,1470,Canvasback,1455
+1991,46,1499,Generic scaup,14855
+1991,46,1500,Ring-necked duck,823
+1991,46,1519,Generic goldeneye,0
+1991,46,1530,Bufflehead,0
+1991,46,1670,Ruddy duck,11386
+1991,46,1720,Canada goose,4666.9
+1991,46,2210,American coot,9977
+1991,46,9991,Pond,36067
+1992,45,1320,Mallard,204475.71
+1992,45,1350,Gadwall,214636.08
+1992,45,1370,American wigeon,15204.97
+1992,45,1390,Green-winged teal,5865.21
+1992,45,1400,Blue-winged teal,242099.71
+1992,45,1420,Northern shoveler,77076.15
+1992,45,1430,Northern pintail,61970.65
+1992,45,1460,Redhead,69130.67
+1992,45,1470,Canvasback,14585.86
+1992,45,1499,Generic scaup,12015.12
+1992,45,1500,Ring-necked duck,5845.49
+1992,45,1519,Generic goldeneye,0
+1992,45,1530,Bufflehead,1255.36
+1992,45,1670,Ruddy duck,22680.55
+1992,45,1720,Canada goose,15414.68
+1992,45,2210,American coot,70169.95
+1992,45,9991,Pond,146723.04
+1992,46,1320,Mallard,75518.35
+1992,46,1350,Gadwall,84769.88
+1992,46,1370,American wigeon,6800.49
+1992,46,1390,Green-winged teal,0
+1992,46,1400,Blue-winged teal,87638.58
+1992,46,1420,Northern shoveler,28484.43
+1992,46,1430,Northern pintail,24021.08
+1992,46,1460,Redhead,9328.52
+1992,46,1470,Canvasback,1107.4
+1992,46,1499,Generic scaup,8342.41
+1992,46,1500,Ring-necked duck,3171.91
+1992,46,1519,Generic goldeneye,0
+1992,46,1530,Bufflehead,386
+1992,46,1670,Ruddy duck,6792.05
+1992,46,1720,Canada goose,7583.71
+1992,46,2210,American coot,10686.41
+1992,46,9991,Pond,47877.64
+1993,45,1320,Mallard,150588.59
+1993,45,1350,Gadwall,121193.91
+1993,45,1370,American wigeon,5060.03
+1993,45,1390,Green-winged teal,4162.24
+1993,45,1400,Blue-winged teal,124870.82
+1993,45,1420,Northern shoveler,67647.22
+1993,45,1430,Northern pintail,38689.85
+1993,45,1460,Redhead,42208.98
+1993,45,1470,Canvasback,9988.01
+1993,45,1499,Generic scaup,22363.28
+1993,45,1500,Ring-necked duck,0
+1993,45,1519,Generic goldeneye,0
+1993,45,1530,Bufflehead,466.47
+1993,45,1670,Ruddy duck,13110.99
+1993,45,1720,Canada goose,12568.89
+1993,45,2210,American coot,49519.92
+1993,45,9991,Pond,167251.3
+1993,46,1320,Mallard,117532.05
+1993,46,1350,Gadwall,115005.07
+1993,46,1370,American wigeon,1778.16
+1993,46,1390,Green-winged teal,2559.67
+1993,46,1400,Blue-winged teal,109440.65
+1993,46,1420,Northern shoveler,81755.65
+1993,46,1430,Northern pintail,59780.61
+1993,46,1460,Redhead,53150.98
+1993,46,1470,Canvasback,6851.11
+1993,46,1499,Generic scaup,11306.02
+1993,46,1500,Ring-necked duck,425.03
+1993,46,1519,Generic goldeneye,0
+1993,46,1530,Bufflehead,2008.08
+1993,46,1670,Ruddy duck,20817.01
+1993,46,1720,Canada goose,3937.69
+1993,46,2210,American coot,46075.75
+1993,46,9991,Pond,162996.62
+1994,45,1320,Mallard,423736.23
+1994,45,1350,Gadwall,199126.7
+1994,45,1370,American wigeon,29061.12
+1994,45,1390,Green-winged teal,19909.15
+1994,45,1400,Blue-winged teal,369735.93
+1994,45,1420,Northern shoveler,200525.26
+1994,45,1430,Northern pintail,160989.92
+1994,45,1460,Redhead,86400.48
+1994,45,1470,Canvasback,35157
+1994,45,1499,Generic scaup,48403.47
+1994,45,1500,Ring-necked duck,3457.39
+1994,45,1519,Generic goldeneye,0
+1994,45,1530,Bufflehead,442.46
+1994,45,1670,Ruddy duck,44228.36
+1994,45,1720,Canada goose,21343.41
+1994,45,2210,American coot,213416.73
+1994,45,9991,Pond,412005.79
+1994,46,1320,Mallard,305975.67
+1994,46,1350,Gadwall,149271.71
+1994,46,1370,American wigeon,20360.34
+1994,46,1390,Green-winged teal,11301.8
+1994,46,1400,Blue-winged teal,436811.29
+1994,46,1420,Northern shoveler,213762.47
+1994,46,1430,Northern pintail,136689.54
+1994,46,1460,Redhead,60621.18
+1994,46,1470,Canvasback,17988.39
+1994,46,1499,Generic scaup,43616.79
+1994,46,1500,Ring-necked duck,708.73
+1994,46,1519,Generic goldeneye,0
+1994,46,1530,Bufflehead,1904.72
+1994,46,1670,Ruddy duck,30496.21
+1994,46,1720,Canada goose,6708.66
+1994,46,2210,American coot,378050.01
+1994,46,9991,Pond,275531.66
+1995,45,1320,Mallard,498890.35
+1995,45,1350,Gadwall,378205.02
+1995,45,1370,American wigeon,47115.31
+1995,45,1390,Green-winged teal,28541.64
+1995,45,1400,Blue-winged teal,848254.89
+1995,45,1420,Northern shoveler,379049.14
+1995,45,1430,Northern pintail,236060.8
+1995,45,1460,Redhead,130162.55
+1995,45,1470,Canvasback,33404.74
+1995,45,1499,Generic scaup,45794.23
+1995,45,1500,Ring-necked duck,25215.86
+1995,45,1519,Generic goldeneye,0
+1995,45,1530,Bufflehead,1725.24
+1995,45,1670,Ruddy duck,49702.28
+1995,45,1720,Canada goose,30592.22
+1995,45,2210,American coot,1207954.42
+1995,45,9991,Pond,581619.57
+1995,46,1320,Mallard,320491.38
+1995,46,1350,Gadwall,233106.53
+1995,46,1370,American wigeon,15227.59
+1995,46,1390,Green-winged teal,9574.02
+1995,46,1400,Blue-winged teal,468361.94
+1995,46,1420,Northern shoveler,161740.39
+1995,46,1430,Northern pintail,134865.12
+1995,46,1460,Redhead,82081.75
+1995,46,1470,Canvasback,5938.23
+1995,46,1499,Generic scaup,56518.14
+1995,46,1500,Ring-necked duck,13157.55
+1995,46,1519,Generic goldeneye,0
+1995,46,1530,Bufflehead,1856.71
+1995,46,1670,Ruddy duck,28214.44
+1995,46,1720,Canada goose,14000.7
+1995,46,2210,American coot,426584.29
+1995,46,9991,Pond,347969.55
+1996,45,1320,Mallard,518812.28
+1996,45,1350,Gadwall,377116.72
+1996,45,1370,American wigeon,35640.05
+1996,45,1390,Green-winged teal,45595.86
+1996,45,1400,Blue-winged teal,881515.22
+1996,45,1420,Northern shoveler,363292.99
+1996,45,1430,Northern pintail,192179.01
+1996,45,1460,Redhead,163399.08
+1996,45,1470,Canvasback,48001.49
+1996,45,1499,Generic scaup,36254.77
+1996,45,1500,Ring-necked duck,5169.9
+1996,45,1519,Generic goldeneye,0
+1996,45,1530,Bufflehead,442.3
+1996,45,1670,Ruddy duck,41437.19
+1996,45,1720,Canada goose,24929.51
+1996,45,2210,American coot,668650.3
+1996,45,9991,Pond,544982.73
+1996,46,1320,Mallard,359119.24
+1996,46,1350,Gadwall,312572.12
+1996,46,1370,American wigeon,14611.82
+1996,46,1390,Green-winged teal,27261.4
+1996,46,1400,Blue-winged teal,675744.8
+1996,46,1420,Northern shoveler,212864.85
+1996,46,1430,Northern pintail,95269.13
+1996,46,1460,Redhead,87566.62
+1996,46,1470,Canvasback,8691.07
+1996,46,1499,Generic scaup,33639.23
+1996,46,1500,Ring-necked duck,2934.79
+1996,46,1519,Generic goldeneye,0
+1996,46,1530,Bufflehead,816.02
+1996,46,1670,Ruddy duck,28624.54
+1996,46,1720,Canada goose,17493.08
+1996,46,2210,American coot,513871.42
+1996,46,9991,Pond,386129.16
+1997,45,1320,Mallard,639078.33
+1997,45,1350,Gadwall,390484.13
+1997,45,1370,American wigeon,36945.47
+1997,45,1390,Green-winged teal,38946.13
+1997,45,1400,Blue-winged teal,941466.29
+1997,45,1420,Northern shoveler,290366.64
+1997,45,1430,Northern pintail,198150.87
+1997,45,1460,Redhead,139531.82
+1997,45,1470,Canvasback,52383.87
+1997,45,1499,Generic scaup,46827.1
+1997,45,1500,Ring-necked duck,5377.47
+1997,45,1519,Generic goldeneye,0
+1997,45,1530,Bufflehead,1980.29
+1997,45,1670,Ruddy duck,130526.58
+1997,45,1720,Canada goose,29220.24
+1997,45,2210,American coot,1045266.44
+1997,45,9991,Pond,558785.92
+1997,46,1320,Mallard,411989.07
+1997,46,1350,Gadwall,220957.1
+1997,46,1370,American wigeon,16228.95
+1997,46,1390,Green-winged teal,21954.97
+1997,46,1400,Blue-winged teal,459282.75
+1997,46,1420,Northern shoveler,128869.55
+1997,46,1430,Northern pintail,121039.14
+1997,46,1460,Redhead,67348.54
+1997,46,1470,Canvasback,10864.58
+1997,46,1499,Generic scaup,45944.07
+1997,46,1500,Ring-necked duck,5850.86
+1997,46,1519,Generic goldeneye,0
+1997,46,1530,Bufflehead,0
+1997,46,1670,Ruddy duck,49701.75
+1997,46,1720,Canada goose,29578.45
+1997,46,2210,American coot,508654.52
+1997,46,9991,Pond,393343.59
+1998,45,1320,Mallard,660878.15
+1998,45,1350,Gadwall,491234.21
+1998,45,1370,American wigeon,53438.64
+1998,45,1390,Green-winged teal,25220.13
+1998,45,1400,Blue-winged teal,868023.28
+1998,45,1420,Northern shoveler,216662.79
+1998,45,1430,Northern pintail,153917.74
+1998,45,1460,Redhead,211216.61
+1998,45,1470,Canvasback,40814.12
+1998,45,1499,Generic scaup,86261.63
+1998,45,1500,Ring-necked duck,3533.02
+1998,45,1519,Generic goldeneye,0
+1998,45,1530,Bufflehead,859.46
+1998,45,1670,Ruddy duck,83491.98
+1998,45,1720,Canada goose,39205.38
+1998,45,2210,American coot,474160.53
+1998,45,9991,Pond,462406.41
+1998,46,1320,Mallard,363871.26
+1998,46,1350,Gadwall,336971.65
+1998,46,1370,American wigeon,22053.08
+1998,46,1390,Green-winged teal,12689.79
+1998,46,1400,Blue-winged teal,634494.2
+1998,46,1420,Northern shoveler,108665.82
+1998,46,1430,Northern pintail,98255.38
+1998,46,1460,Redhead,106020.66
+1998,46,1470,Canvasback,6625.28
+1998,46,1499,Generic scaup,61594.56
+1998,46,1500,Ring-necked duck,3440.14
+1998,46,1519,Generic goldeneye,0
+1998,46,1530,Bufflehead,264.27
+1998,46,1670,Ruddy duck,44680.41
+1998,46,1720,Canada goose,23375.24
+1998,46,2210,American coot,222030.55
+1998,46,9991,Pond,359009.33
+1999,45,1320,Mallard,814793.99
+1999,45,1350,Gadwall,529263.38
+1999,45,1370,American wigeon,34337.62
+1999,45,1390,Green-winged teal,15711.17
+1999,45,1400,Blue-winged teal,1098889.07
+1999,45,1420,Northern shoveler,313906.68
+1999,45,1430,Northern pintail,307428.35
+1999,45,1460,Redhead,159685.09
+1999,45,1470,Canvasback,33790.06
+1999,45,1499,Generic scaup,57295.54
+1999,45,1500,Ring-necked duck,5841.45
+1999,45,1519,Generic goldeneye,0
+1999,45,1530,Bufflehead,0
+1999,45,1670,Ruddy duck,127818.82
+1999,45,1720,Canada goose,57129.53
+1999,45,2210,American coot,556318.42
+1999,45,9991,Pond,895502.64
+1999,46,1320,Mallard,459886.04
+1999,46,1350,Gadwall,320760.04
+1999,46,1370,American wigeon,20272.09
+1999,46,1390,Green-winged teal,15183.1
+1999,46,1400,Blue-winged teal,735274.53
+1999,46,1420,Northern shoveler,139911.98
+1999,46,1430,Northern pintail,106022.76
+1999,46,1460,Redhead,91092.61
+1999,46,1470,Canvasback,5667.28
+1999,46,1499,Generic scaup,59777.81
+1999,46,1500,Ring-necked duck,14027.26
+1999,46,1519,Generic goldeneye,0
+1999,46,1530,Bufflehead,267.13
+1999,46,1670,Ruddy duck,89506.8
+1999,46,1720,Canada goose,33166.8
+1999,46,2210,American coot,308352.77
+1999,46,9991,Pond,361253.19
+2000,45,1320,Mallard,807384.5
+2000,45,1350,Gadwall,696253.69
+2000,45,1370,American wigeon,39766
+2000,45,1390,Green-winged teal,9680.08
+2000,45,1400,Blue-winged teal,1814365.59
+2000,45,1420,Northern shoveler,383184.74
+2000,45,1430,Northern pintail,133372.89
+2000,45,1460,Redhead,218194.23
+2000,45,1470,Canvasback,11934.16
+2000,45,1499,Generic scaup,77212.73
+2000,45,1500,Ring-necked duck,1872.73
+2000,45,1519,Generic goldeneye,1255.15
+2000,45,1530,Bufflehead,1282.28
+2000,45,1670,Ruddy duck,145902.85
+2000,45,1720,Canada goose,81011.45
+2000,45,2210,American coot,485090.18
+2000,45,9991,Pond,363216.1
+2000,46,1320,Mallard,479868.66
+2000,46,1350,Gadwall,432002.56
+2000,46,1370,American wigeon,28146.41
+2000,46,1390,Green-winged teal,19347.27
+2000,46,1400,Blue-winged teal,866245.76
+2000,46,1420,Northern shoveler,187182.96
+2000,46,1430,Northern pintail,88919.9
+2000,46,1460,Redhead,78526.52
+2000,46,1470,Canvasback,5504.4
+2000,46,1499,Generic scaup,92062.85
+2000,46,1500,Ring-necked duck,3619.57
+2000,46,1519,Generic goldeneye,0
+2000,46,1530,Bufflehead,262.85
+2000,46,1670,Ruddy duck,66379.34
+2000,46,1720,Canada goose,53059.06
+2000,46,2210,American coot,341340.01
+2000,46,9991,Pond,242361.86
+2001,45,1320,Mallard,838797.07
+2001,45,1350,Gadwall,429378.01
+2001,45,1370,American wigeon,39215.78
+2001,45,1390,Green-winged teal,19468.4
+2001,45,1400,Blue-winged teal,995454.8
+2001,45,1420,Northern shoveler,466768.66
+2001,45,1430,Northern pintail,241364.2
+2001,45,1460,Redhead,170372.37
+2001,45,1470,Canvasback,62074.4
+2001,45,1499,Generic scaup,57751.81
+2001,45,1500,Ring-necked duck,3868.71
+2001,45,1519,Generic goldeneye,0
+2001,45,1530,Bufflehead,4159.15
+2001,45,1670,Ruddy duck,124083.99
+2001,45,1720,Canada goose,81696.47
+2001,45,2210,American coot,197770.06
+2001,45,9991,Pond,414928
+2001,46,1320,Mallard,471018.17
+2001,46,1350,Gadwall,246014.14
+2001,46,1370,American wigeon,33960.26
+2001,46,1390,Green-winged teal,5986.28
+2001,46,1400,Blue-winged teal,603609.52
+2001,46,1420,Northern shoveler,163928.57
+2001,46,1430,Northern pintail,95080.49
+2001,46,1460,Redhead,37492.19
+2001,46,1470,Canvasback,3592.86
+2001,46,1499,Generic scaup,65969.4
+2001,46,1500,Ring-necked duck,6873.13
+2001,46,1519,Generic goldeneye,0
+2001,46,1530,Bufflehead,511.55
+2001,46,1670,Ruddy duck,56392.21
+2001,46,1720,Canada goose,73991.67
+2001,46,2210,American coot,55926.62
+2001,46,9991,Pond,222100.86
+2002,45,1320,Mallard,665324.46
+2002,45,1350,Gadwall,388907.13
+2002,45,1370,American wigeon,58249.52
+2002,45,1390,Green-winged teal,36225.56
+2002,45,1400,Blue-winged teal,765996.77
+2002,45,1420,Northern shoveler,225352.79
+2002,45,1430,Northern pintail,132053.14
+2002,45,1460,Redhead,87914.38
+2002,45,1470,Canvasback,22018.98
+2002,45,1499,Generic scaup,66879.94
+2002,45,1500,Ring-necked duck,8410.94
+2002,45,1519,Generic goldeneye,0
+2002,45,1530,Bufflehead,1749.97
+2002,45,1670,Ruddy duck,130402.68
+2002,45,1720,Canada goose,56937.19
+2002,45,2210,American coot,341529.21
+2002,45,9991,Pond,373715.6
+2002,46,1320,Mallard,416973.48
+2002,46,1350,Gadwall,248060.97
+2002,46,1370,American wigeon,19652.33
+2002,46,1390,Green-winged teal,8911.12
+2002,46,1400,Blue-winged teal,474173.18
+2002,46,1420,Northern shoveler,106408.22
+2002,46,1430,Northern pintail,65837.56
+2002,46,1460,Redhead,50582.39
+2002,46,1470,Canvasback,7737.78
+2002,46,1499,Generic scaup,51352.4
+2002,46,1500,Ring-necked duck,11236.85
+2002,46,1519,Generic goldeneye,0
+2002,46,1530,Bufflehead,645.71
+2002,46,1670,Ruddy duck,50820.83
+2002,46,1720,Canada goose,48145.53
+2002,46,2210,American coot,66657.82
+2002,46,9991,Pond,192462.91
+2003,45,1320,Mallard,576655.6
+2003,45,1350,Gadwall,353492.3
+2003,45,1370,American wigeon,48633.2
+2003,45,1390,Green-winged teal,8369.13
+2003,45,1400,Blue-winged teal,750895.86
+2003,45,1420,Northern shoveler,207070.52
+2003,45,1430,Northern pintail,87416.5
+2003,45,1460,Redhead,75339.6
+2003,45,1470,Canvasback,16725.25
+2003,45,1499,Generic scaup,70962.25
+2003,45,1500,Ring-necked duck,1857.86
+2003,45,1519,Generic goldeneye,0
+2003,45,1530,Bufflehead,0
+2003,45,1670,Ruddy duck,51092.73
+2003,45,1720,Canada goose,90966.87
+2003,45,2210,American coot,63148.79
+2003,45,9991,Pond,499405.08
+2003,46,1320,Mallard,322507.35
+2003,46,1350,Gadwall,185165.9
+2003,46,1370,American wigeon,14303.91
+2003,46,1390,Green-winged teal,7384.55
+2003,46,1400,Blue-winged teal,408808.88
+2003,46,1420,Northern shoveler,67453.46
+2003,46,1430,Northern pintail,15483.82
+2003,46,1460,Redhead,13097.27
+2003,46,1470,Canvasback,2810.97
+2003,46,1499,Generic scaup,61309.43
+2003,46,1500,Ring-necked duck,6401.04
+2003,46,1519,Generic goldeneye,0
+2003,46,1530,Bufflehead,264.95
+2003,46,1670,Ruddy duck,20359.57
+2003,46,1720,Canada goose,64768.34
+2003,46,2210,American coot,5503.17
+2003,46,9991,Pond,277124.59
+2004,45,1320,Mallard,654950.84
+2004,45,1350,Gadwall,491735.28
+2004,45,1370,American wigeon,31559.54
+2004,45,1390,Green-winged teal,50919.47
+2004,45,1400,Blue-winged teal,638862.59
+2004,45,1420,Northern shoveler,224357.13
+2004,45,1430,Northern pintail,128983.33
+2004,45,1460,Redhead,113001.4
+2004,45,1470,Canvasback,34013.68
+2004,45,1499,Generic scaup,82578.16
+2004,45,1500,Ring-necked duck,0
+2004,45,1519,Generic goldeneye,0
+2004,45,1530,Bufflehead,0
+2004,45,1670,Ruddy duck,130572.02
+2004,45,1720,Canada goose,97385.68
+2004,45,2210,American coot,454475.41
+2004,45,9991,Pond,455388.09
+2004,46,1320,Mallard,347195.3
+2004,46,1350,Gadwall,282174.25
+2004,46,1370,American wigeon,10414.22
+2004,46,1390,Green-winged teal,24087.83
+2004,46,1400,Blue-winged teal,328138.56
+2004,46,1420,Northern shoveler,76854.48
+2004,46,1430,Northern pintail,75561.59
+2004,46,1460,Redhead,27851.28
+2004,46,1470,Canvasback,3486.25
+2004,46,1499,Generic scaup,138781.56
+2004,46,1500,Ring-necked duck,1873.98
+2004,46,1519,Generic goldeneye,0
+2004,46,1530,Bufflehead,0
+2004,46,1670,Ruddy duck,33797.27
+2004,46,1720,Canada goose,67744.11
+2004,46,2210,American coot,27777.42
+2004,46,9991,Pond,163802.09
+2005,45,1320,Mallard,586264.91
+2005,45,1350,Gadwall,313333.29
+2005,45,1370,American wigeon,30786.13
+2005,45,1390,Green-winged teal,15520.53
+2005,45,1400,Blue-winged teal,629165.02
+2005,45,1420,Northern shoveler,278322.2
+2005,45,1430,Northern pintail,120175.06
+2005,45,1460,Redhead,78987.9
+2005,45,1470,Canvasback,21042.57
+2005,45,1499,Generic scaup,64058.38
+2005,45,1500,Ring-necked duck,2827.97
+2005,45,1519,Generic goldeneye,0
+2005,45,1530,Bufflehead,0
+2005,45,1670,Ruddy duck,102777.74
+2005,45,1720,Canada goose,137489.15
+2005,45,2210,American coot,69781.27
+2005,45,9991,Pond,373190.54
+2005,46,1320,Mallard,331111.99
+2005,46,1350,Gadwall,163351.11
+2005,46,1370,American wigeon,23088.64
+2005,46,1390,Green-winged teal,11930.91
+2005,46,1400,Blue-winged teal,255287.77
+2005,46,1420,Northern shoveler,108188.46
+2005,46,1430,Northern pintail,79439.32
+2005,46,1460,Redhead,23219.4
+2005,46,1470,Canvasback,5463.83
+2005,46,1499,Generic scaup,38074.85
+2005,46,1500,Ring-necked duck,3162.05
+2005,46,1519,Generic goldeneye,0
+2005,46,1530,Bufflehead,259.86
+2005,46,1670,Ruddy duck,11637.15
+2005,46,1720,Canada goose,86014.73
+2005,46,2210,American coot,8166.97
+2005,46,9991,Pond,174945.1
+2006,45,1320,Mallard,637981.17
+2006,45,1350,Gadwall,279031.64
+2006,45,1370,American wigeon,29721.05
+2006,45,1390,Green-winged teal,26603.56
+2006,45,1400,Blue-winged teal,592617.37
+2006,45,1420,Northern shoveler,195256.23
+2006,45,1430,Northern pintail,118266.27
+2006,45,1460,Redhead,71590.55
+2006,45,1470,Canvasback,23025.83
+2006,45,1499,Generic scaup,59420.05
+2006,45,1500,Ring-necked duck,1023.68
+2006,45,1519,Generic goldeneye,0
+2006,45,1530,Bufflehead,0
+2006,45,1670,Ruddy duck,66776.87
+2006,45,1720,Canada goose,132375.02
+2006,45,2210,American coot,48262.21
+2006,45,9991,Pond,412520.69
+2006,46,1320,Mallard,393173.48
+2006,46,1350,Gadwall,159666.96
+2006,46,1370,American wigeon,17002.5
+2006,46,1390,Green-winged teal,28046.6
+2006,46,1400,Blue-winged teal,336300.64
+2006,46,1420,Northern shoveler,100086.9
+2006,46,1430,Northern pintail,54717.36
+2006,46,1460,Redhead,37687.94
+2006,46,1470,Canvasback,3540.07
+2006,46,1499,Generic scaup,56292.3
+2006,46,1500,Ring-necked duck,314.77
+2006,46,1519,Generic goldeneye,0
+2006,46,1530,Bufflehead,1037.85
+2006,46,1670,Ruddy duck,50049.28
+2006,46,1720,Canada goose,79482.11
+2006,46,2210,American coot,38508.91
+2006,46,9991,Pond,225161.03
+2007,45,1320,Mallard,697902.7502
+2007,45,1350,Gadwall,525097.3441
+2007,45,1370,American wigeon,33557.95571
+2007,45,1390,Green-winged teal,15658.73795
+2007,45,1400,Blue-winged teal,544971.4998
+2007,45,1420,Northern shoveler,213478.7374
+2007,45,1430,Northern pintail,147243.2396
+2007,45,1460,Redhead,94234.19747
+2007,45,1470,Canvasback,38316.55505
+2007,45,1499,Generic scaup,108749.4427
+2007,45,1500,Ring-necked duck,10005.12083
+2007,45,1519,Generic goldeneye,743.7176391
+2007,45,1530,Bufflehead,0
+2007,45,1670,Ruddy duck,55312.07235
+2007,45,1720,Canada goose,209098.476
+2007,45,2210,American coot,81746.05303
+2007,45,9991,Pond,336168.0407
+2007,46,1320,Mallard,513192.9811
+2007,46,1350,Gadwall,300891.9862
+2007,46,1370,American wigeon,17133.43771
+2007,46,1390,Green-winged teal,7226.038716
+2007,46,1400,Blue-winged teal,484634.3542
+2007,46,1420,Northern shoveler,170599.4232
+2007,46,1430,Northern pintail,136921.5547
+2007,46,1460,Redhead,80360.57514
+2007,46,1470,Canvasback,7533.135434
+2007,46,1499,Generic scaup,47931.20859
+2007,46,1500,Ring-necked duck,3357.864504
+2007,46,1519,Generic goldeneye,0
+2007,46,1530,Bufflehead,262.1183706
+2007,46,1670,Ruddy duck,51730.39357
+2007,46,1720,Canada goose,107968.3655
+2007,46,2210,American coot,81827.77688
+2007,46,9991,Pond,248581.8835
+2008,45,1320,Mallard,560381
+2008,45,1350,Gadwall,373405
+2008,45,1370,American wigeon,12245
+2008,45,1390,Green-winged teal,8215
+2008,45,1400,Blue-winged teal,421825
+2008,45,1420,Northern shoveler,189251
+2008,45,1430,Northern pintail,81358
+2008,45,1460,Redhead,69200
+2008,45,1470,Canvasback,14740
+2008,45,1499,Generic scaup,43210
+2008,45,1500,Ring-necked duck,1418
+2008,45,1519,Generic goldeneye,729
+2008,45,1530,Bufflehead,409
+2008,45,1670,Ruddy duck,74347
+2008,45,1720,Canada goose,147340
+2008,45,2210,American coot,76726
+2008,45,9991,Pond,185740
+2008,46,1320,Mallard,331024
+2008,46,1350,Gadwall,221408
+2008,46,1370,American wigeon,16015
+2008,46,1390,Green-winged teal,5056
+2008,46,1400,Blue-winged teal,532684
+2008,46,1420,Northern shoveler,160594
+2008,46,1430,Northern pintail,52752
+2008,46,1460,Redhead,65258
+2008,46,1470,Canvasback,6237
+2008,46,1499,Generic scaup,57891
+2008,46,1500,Ring-necked duck,4191
+2008,46,1519,Generic goldeneye,0
+2008,46,1530,Bufflehead,1008
+2008,46,1670,Ruddy duck,85799
+2008,46,1720,Canada goose,73695
+2008,46,2210,American coot,147878
+2008,46,9991,Pond,138810
+2009,45,1320,Mallard,984289
+2009,45,1350,Gadwall,475710
+2009,45,1370,American wigeon,59483
+2009,45,1390,Green-winged teal,68839
+2009,45,1400,Blue-winged teal,1437920
+2009,45,1420,Northern shoveler,748801
+2009,45,1430,Northern pintail,412540
+2009,45,1460,Redhead,267051
+2009,45,1470,Canvasback,63300
+2009,45,1499,Generic scaup,161100
+2009,45,1500,Ring-necked duck,11828
+2009,45,1519,Generic goldeneye,727
+2009,45,1530,Bufflehead,1234
+2009,45,1670,Ruddy duck,122668
+2009,45,1720,Canada goose,152030
+2009,45,2210,American coot,364672
+2009,45,9991,Pond,738039
+2009,46,1320,Mallard,529954
+2009,46,1350,Gadwall,251033
+2009,46,1370,American wigeon,23216
+2009,46,1390,Green-winged teal,17839
+2009,46,1400,Blue-winged teal,921673
+2009,46,1420,Northern shoveler,339557
+2009,46,1430,Northern pintail,208582
+2009,46,1460,Redhead,111198
+2009,46,1470,Canvasback,9740
+2009,46,1499,Generic scaup,67914
+2009,46,1500,Ring-necked duck,7800
+2009,46,1519,Generic goldeneye,0
+2009,46,1530,Bufflehead,506
+2009,46,1670,Ruddy duck,40615
+2009,46,1720,Canada goose,99959
+2009,46,2210,American coot,248232
+2009,46,9991,Pond,360815
+2010,45,1320,Mallard,852581
+2010,45,1350,Gadwall,467342
+2010,45,1370,American wigeon,84516
+2010,45,1390,Green-winged teal,94082
+2010,45,1400,Blue-winged teal,975639
+2010,45,1420,Northern shoveler,550871
+2010,45,1430,Northern pintail,346948
+2010,45,1460,Redhead,202148
+2010,45,1470,Canvasback,97831
+2010,45,1499,Generic scaup,134324
+2010,45,1500,Ring-necked duck,7205
+2010,45,1519,Generic goldeneye,0
+2010,45,1530,Bufflehead,3033
+2010,45,1670,Ruddy duck,98083
+2010,45,1720,Canada goose,187884
+2010,45,2210,American coot,380561
+2010,45,9991,Pond,865217
+2010,46,1320,Mallard,535777
+2010,46,1350,Gadwall,250859
+2010,46,1370,American wigeon,30896
+2010,46,1390,Green-winged teal,48021
+2010,46,1400,Blue-winged teal,838601
+2010,46,1420,Northern shoveler,338029
+2010,46,1430,Northern pintail,279751
+2010,46,1460,Redhead,128262
+2010,46,1470,Canvasback,15612
+2010,46,1499,Generic scaup,83534
+2010,46,1500,Ring-necked duck,1817
+2010,46,1519,Generic goldeneye,0
+2010,46,1530,Bufflehead,1005
+2010,46,1670,Ruddy duck,77361
+2010,46,1720,Canada goose,104648
+2010,46,2210,American coot,254451
+2010,46,9991,Pond,442966
+2011,45,1320,Mallard,1021357
+2011,45,1350,Gadwall,512255
+2011,45,1370,American wigeon,40327
+2011,45,1390,Green-winged teal,36938
+2011,45,1400,Blue-winged teal,1483995
+2011,45,1420,Northern shoveler,567681
+2011,45,1430,Northern pintail,673633
+2011,45,1460,Redhead,347752
+2011,45,1470,Canvasback,85967
+2011,45,1499,Generic scaup,103273
+2011,45,1500,Ring-necked duck,26046
+2011,45,1519,Generic goldeneye,0
+2011,45,1530,Bufflehead,3741
+2011,45,1670,Ruddy duck,75970
+2011,45,1720,Canada goose,199648
+2011,45,2210,American coot,413427
+2011,45,9991,Pond,871934
+2011,46,1320,Mallard,464793
+2011,46,1350,Gadwall,243412
+2011,46,1370,American wigeon,12307
+2011,46,1390,Green-winged teal,6763
+2011,46,1400,Blue-winged teal,629594
+2011,46,1420,Northern shoveler,175833
+2011,46,1430,Northern pintail,253110
+2011,46,1460,Redhead,134072
+2011,46,1470,Canvasback,25621
+2011,46,1499,Generic scaup,68634
+2011,46,1500,Ring-necked duck,13030
+2011,46,1519,Generic goldeneye,0
+2011,46,1530,Bufflehead,8371
+2011,46,1670,Ruddy duck,23399
+2011,46,1720,Canada goose,139416
+2011,46,2210,American coot,191735
+2011,46,9991,Pond,462497
+2012,45,1320,Mallard,912787
+2012,45,1350,Gadwall,693355
+2012,45,1370,American wigeon,40636
+2012,45,1390,Green-winged teal,50166
+2012,45,1400,Blue-winged teal,1739616
+2012,45,1420,Northern shoveler,560209
+2012,45,1430,Northern pintail,410153
+2012,45,1460,Redhead,321852
+2012,45,1470,Canvasback,58000
+2012,45,1499,Generic scaup,146995
+2012,45,1500,Ring-necked duck,11297
+2012,45,1519,Generic goldeneye,685
+2012,45,1530,Bufflehead,2479
+2012,45,1670,Ruddy duck,71982
+2012,45,1720,Canada goose,229239
+2012,45,2210,American coot,753940
+2012,45,9991,Pond,462720
+2012,46,1320,Mallard,567730
+2012,46,1350,Gadwall,311533
+2012,46,1370,American wigeon,9139
+2012,46,1390,Green-winged teal,2205
+2012,46,1400,Blue-winged teal,939722
+2012,46,1420,Northern shoveler,207861
+2012,46,1430,Northern pintail,160107
+2012,46,1460,Redhead,134422
+2012,46,1470,Canvasback,10984
+2012,46,1499,Generic scaup,84304
+2012,46,1500,Ring-necked duck,9895
+2012,46,1519,Generic goldeneye,0
+2012,46,1530,Bufflehead,1526
+2012,46,1670,Ruddy duck,26582
+2012,46,1720,Canada goose,154165
+2012,46,2210,American coot,297686
+2012,46,9991,Pond,272433
+2013,45,1320,Mallard,1005007
+2013,45,1350,Gadwall,548413
+2013,45,1370,American wigeon,71624
+2013,45,1390,Green-winged teal,52449
+2013,45,1400,Blue-winged teal,1054864
+2013,45,1420,Northern shoveler,583182
+2013,45,1430,Northern pintail,401160
+2013,45,1460,Redhead,263011
+2013,45,1470,Canvasback,95107
+2013,45,1499,Generic scaup,114419
+2013,45,1500,Ring-necked duck,27853
+2013,45,1519,Generic goldeneye,0
+2013,45,1530,Bufflehead,5330
+2013,45,1670,Ruddy duck,44278
+2013,45,1720,Canada goose,170321
+2013,45,2210,American coot,344303
+2013,45,9991,Pond,980660
+2013,46,1320,Mallard,556683
+2013,46,1350,Gadwall,246936
+2013,46,1370,American wigeon,14003
+2013,46,1390,Green-winged teal,8070
+2013,46,1400,Blue-winged teal,633970
+2013,46,1420,Northern shoveler,190736
+2013,46,1430,Northern pintail,142137
+2013,46,1460,Redhead,78376
+2013,46,1470,Canvasback,11548
+2013,46,1499,Generic scaup,82560
+2013,46,1500,Ring-necked duck,14150
+2013,46,1519,Generic goldeneye,0
+2013,46,1530,Bufflehead,505
+2013,46,1670,Ruddy duck,32909
+2013,46,1720,Canada goose,144053
+2013,46,2210,American coot,145180
+2013,46,9991,Pond,414367
+2014,45,1320,Mallard,830673
+2014,45,1350,Gadwall,478503
+2014,45,1370,American wigeon,74235
+2014,45,1390,Green-winged teal,122654
+2014,45,1400,Blue-winged teal,998688
+2014,45,1420,Northern shoveler,595028
+2014,45,1430,Northern pintail,383551
+2014,45,1460,Redhead,166308
+2014,45,1470,Canvasback,86060
+2014,45,1499,Generic scaup,183432
+2014,45,1500,Ring-necked duck,15949
+2014,45,1519,Generic goldeneye,0
+2014,45,1530,Bufflehead,6986
+2014,45,1670,Ruddy duck,129812
+2014,45,1720,Canada goose,175403
+2014,45,2210,American coot,737315
+2014,45,9991,Pond,671970
+2014,46,1320,Mallard,367434
+2014,46,1350,Gadwall,202207
+2014,46,1370,American wigeon,13906
+2014,46,1390,Green-winged teal,33773
+2014,46,1400,Blue-winged teal,324166
+2014,46,1420,Northern shoveler,204723
+2014,46,1430,Northern pintail,117420
+2014,46,1460,Redhead,52900
+2014,46,1470,Canvasback,11831
+2014,46,1499,Generic scaup,163544
+2014,46,1500,Ring-necked duck,15858
+2014,46,1519,Generic goldeneye,0
+2014,46,1530,Bufflehead,3035
+2014,46,1670,Ruddy duck,55552
+2014,46,1720,Canada goose,93676
+2014,46,2210,American coot,145117
+2014,46,9991,Pond,394886
+2015,45,1320,Mallard,740881
+2015,45,1350,Gadwall,529283
+2015,45,1370,American wigeon,105818
+2015,45,1390,Green-winged teal,65819
+2015,45,1400,Blue-winged teal,997095
+2015,45,1420,Northern shoveler,272036
+2015,45,1430,Northern pintail,237948
+2015,45,1460,Redhead,126452
+2015,45,1470,Canvasback,102239
+2015,45,1499,Generic scaup,268769
+2015,45,1500,Ring-necked duck,12833
+2015,45,1519,Generic goldeneye,0
+2015,45,1530,Bufflehead,2952
+2015,45,1670,Ruddy duck,61918
+2015,45,1720,Canada goose,164440
+2015,45,2210,American coot,108598
+2015,45,9991,Pond,556741
+2015,46,1320,Mallard,366072
+2015,46,1350,Gadwall,229606
+2015,46,1370,American wigeon,10462
+2015,46,1390,Green-winged teal,20515
+2015,46,1400,Blue-winged teal,458970
+2015,46,1420,Northern shoveler,105112
+2015,46,1430,Northern pintail,95085
+2015,46,1460,Redhead,66641
+2015,46,1470,Canvasback,21372
+2015,46,1499,Generic scaup,80762
+2015,46,1500,Ring-necked duck,13461
+2015,46,1519,Generic goldeneye,0
+2015,46,1530,Bufflehead,1264
+2015,46,1670,Ruddy duck,58201
+2015,46,1720,Canada goose,100951
+2015,46,2210,American coot,51868
+2015,46,9991,Pond,323984

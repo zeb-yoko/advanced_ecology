@@ -35,11 +35,10 @@ dat.pond
 ##line grraph of mallards##
 dat.graph <- dat %>% 
 	filter(STRATUM == 45 | STRATUM == 46 & SPECIES == "Mallard")
-dat.graph$STRATUM <-as.factor(dat.graph$STRATUM)
+##Make STRATUM a factor instead of numeric##
+dat.graph$STRATUM <- as.factor(dat.graph$STRATUM)
 
-View(dat)
-
-
+##ggplot scatterplot for #4 ##
 mals <- ggplot(dat.graph, aes(x=YEAR, y=POP, color = STRATUM)) +
 						geom_point() + geom_smooth(method = 'lm')
 mals
@@ -49,12 +48,11 @@ mals
 mallxstr <- ggplot(dat.graph, aes(x=STRATUM, y=POP, color = STRATUM))+
 	geom_boxplot(outlier.color = "tan") +
 	stat_summary(fun.y = 'mean', geom = 'point', shape = 43, size = 4)
-	#xlab("Source Region") + ylab("Log Stomata Ratio")+
+	xlab("Stratum") + ylab("Population")
 	#scale_color_manual(values = col.esa, labels = c("Prairie", "MB Alvar", "GL Alvar"))
 mallxstr
 
 ##Linear regression ponds to mallard##
-?lm
 ##Subset original dataframe to create mallard df##
 mallard <- subset(dat, dat$SPECIES == "Mallard")
 ##Use subset to create df of pond data##
@@ -63,3 +61,21 @@ pond <- subset(dat, dat$SPECIES == "Pond")
 model<- lm(mallard$POP~pond$POP) 
 summary(model)
 
+library(vegan)
+
+##Shannnon Diversity index (H)##
+##Per year in both strata##
+##Row import errors#
+dat<- read.csv("waterfowl.csv", header=T)
+dat<- read.table("waterfowl.csv", header = T, row.names = NULL)
+dat.45 <- dat %>% 
+		filter(STRATUM == 45) %>%
+		select(-AOU)
+dat.46 <- dat %>% 
+	filter(STRATUM == 46) %>% 
+	select(-AOU)
+H.45<- diversity(dat.45, groups=SPECIES)
+
+H.BCI<- diversity(BCI)
+View(BCI)
+diversity(dat.45)

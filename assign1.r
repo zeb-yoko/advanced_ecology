@@ -79,3 +79,7 @@ H.45<- diversity(dat.45, groups=SPECIES)
 H.BCI<- diversity(BCI)
 View(BCI)
 diversity(dat.45)
+##ERROR:##
+##> diversity(dat.45)##
+##Error in diversity(dat.45) : input data must be non-negative##
+> 

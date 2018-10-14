@@ -2,32 +2,64 @@
 ##Load libraries##
 library(tidyverse)
 ##Load data##
-data <- read.csv("waterfowl.csv")
-str(data)
+dat <- read.csv("waterfowl.csv")
+str(dat)
 ##select strata 45##
-s45 <- filter(data$STRATUM == "45")
+s45 <- filter(dat$STRATUM == "45")
 
-data %>% 
+##filter for mallard population in 45##
+dat.MALL<- dat %>% 
 	filter(STRATUM == "45") %>% 
 	filter(SPECIES == "Mallard") %>% 
 	top_n(1, POP)
 
+str(dat)
+head(dat)
 
-head(data)
+##FILTER FOR 93 STRATUM##
+dat.93 <-dat %>% 
+	filter(STRATUM == "45") %>% 
+	filter(YEAR == "1993") %>% 
+	top_n(1, POP)
+dat.93
+
+##Number of Ponds##
+##In species???##
+dat.pond <- dat %>% 
+	filter(STRATUM == "45") %>% 
+	filter(SPECIES == "Pond") %>% 
+	summarize(avg = mean(POP))
+dat.pond
+
+
 ##line grraph of mallards##
-mals <- ggplot(s45, aes()+
-	geom_line()
+dat.graph <- dat %>% 
+	filter(STRATUM == 45 | STRATUM == 46 & SPECIES == "Mallard")
+dat.graph$STRATUM <-as.factor(dat.graph$STRATUM)
+
+View(dat)
+
+
+mals <- ggplot(dat.graph, aes(x=YEAR, y=POP, color = STRATUM)) +
+						geom_point() + geom_smooth(method = 'lm')
 mals
 
 ##boxplot of mallard by strata##
 
-mallxstr <- ggplot(data, aes(x=data$, y =log(sto.1$B.T_Ratio), color = Region)) +
+mallxstr <- ggplot(dat.graph, aes(x=STRATUM, y=POP, color = STRATUM))+
 	geom_boxplot(outlier.color = "tan") +
-	stat_summary(fun.y = 'mean', geom = 'point', shape = 43, size = 4) +
-	xlab("Source Region") + ylab("Log Stomata Ratio")+
-	theme(axis.text.x = element_text(angle=90, vjust = .25))+
-	annotate('text', x=1, y=1.25,label='A', col="#005979",size=7)+
-	annotate('text', x=2, y=1.25,label='B', col="#005979",size=7)+
-	annotate('text', x=3, y=1.25,label='A', col="#005979",size=7)+
-	scale_color_manual(values = col.esa, labels = c("Prairie", "MB Alvar", "GL Alvar"))
-stolg
+	stat_summary(fun.y = 'mean', geom = 'point', shape = 43, size = 4)
+	#xlab("Source Region") + ylab("Log Stomata Ratio")+
+	#scale_color_manual(values = col.esa, labels = c("Prairie", "MB Alvar", "GL Alvar"))
+mallxstr
+
+##Linear regression ponds to mallard##
+?lm
+##Subset original dataframe to create mallard df##
+mallard <- subset(dat, dat$SPECIES == "Mallard")
+##Use subset to create df of pond data##
+pond <- subset(dat, dat$SPECIES == "Pond")
+##Model formula##
+model<- lm(mallard$POP~pond$POP) 
+summary(model)
+

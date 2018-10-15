@@ -20,6 +20,7 @@ head(dat)
 dat.93 <-dat %>% 
 	filter(STRATUM == "45") %>% 
 	filter(YEAR == "1993") %>% 
+	filter(SPECIES !="Pond") %>% 
 	top_n(1, POP)
 dat.93
 

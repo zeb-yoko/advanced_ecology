@@ -39,21 +39,21 @@ dat.graph <- dat %>%
 ##Make STRATUM a factor instead of numeric##
 dat.graph$STRATUM <- as.factor(dat.graph$STRATUM)
 
-##ggplot scatterplot for #4 ##
+##ggplot scatterplot for Q4 ##
 mals <- ggplot(dat.graph, aes(x=YEAR, y=POP, color = STRATUM)) +
 						geom_point() + geom_smooth(method = 'lm')
 mals
 
 ##boxplot of mallard by strata##
-
+##Q5##
 mallxstr <- ggplot(dat.graph, aes(x=STRATUM, y=POP, color = STRATUM))+
 	geom_boxplot(outlier.color = "tan") +
-	stat_summary(fun.y = 'mean', geom = 'point', shape = 43, size = 4)
-	xlab("Stratum") + ylab("Population")
-	#scale_color_manual(values = col.esa, labels = c("Prairie", "MB Alvar", "GL Alvar"))
+	stat_summary(fun.y = 'mean', geom = 'point', shape = 43, size = 4)+
+	xlab("Stratum") + ylab("Population")+
+	scale_color_manual(values = c("Red", "Blue"))
 mallxstr
 
-##Linear regression ponds to mallard##
+##Linear regression: ponds to mallard##
 ##Subset original dataframe to create mallard df##
 mallard <- subset(dat, dat$SPECIES == "Mallard")
 ##Use subset to create df of pond data##
@@ -62,25 +62,79 @@ pond <- subset(dat, dat$SPECIES == "Pond")
 model<- lm(mallard$POP~pond$POP) 
 summary(model)
 
-library(vegan)
 
 ##Shannnon Diversity index (H)##
+library(vegan)
 ##Per year in both strata##
-##Row import errors#
-dat<- read.csv("waterfowl.csv", header=T)
-dat<- read.table("waterfowl.csv", header = T, row.names = NULL)
+##NOT WORKING, NEGATIVE VALUES?##
+##REIMPORT##
+dat<- read.csv("waterfowl (1).csv", header=T)
+##SEPARATE BY STRATUM##
 dat.45 <- dat %>% 
 		filter(STRATUM == 45) %>%
 		select(-AOU)
+
 dat.46 <- dat %>% 
 	filter(STRATUM == 46) %>% 
 	select(-AOU)
-H.45<- diversity(dat.45, groups=SPECIES)
-
-H.BCI<- diversity(BCI)
-View(BCI)
-diversity(dat.45)
+##CALCULATE BY DIVERSITY##
+H.45<- diversity(dat.45)
 ##ERROR:##
 ##> diversity(dat.45)##
 ##Error in diversity(dat.45) : input data must be non-negative##
 > 
+ ##Troubleshooting##
+##DOUBLE/TRIPLE CHECK NO NEGATIVES##
+dat.45$POP <- abs(dat.45$POP)
+dat.45$YEAR<- abs(dat.45$YEAR)
+dat.45$STRATUM<- abs(dat.45$STRATUM)
+dat.45$STRATUM<- as.factor(dat.45$STRATUM)
+## PEEK AT DATA##
+str(dat.45)
+##RENAME COLUMNS JUST IN CASE##
+colnames(dat)[1] = "YEAR"
+colnames(dat)[2] = "STRATUM"
+colnames(dat)[3] = "SPECIES"
+colnames(dat)[4] = "POP"
+## PEEK AT DATA##
+str(dat.45)
+H<-diversity(dat.45, index = "shannon", MARGIN = 1)
+#> H<-diversity(dat.45, index = "shannon", MARGIN = 1)
+#Error in diversity(dat.45, index = "shannon", MARGIN = 1) : 
+#  input data must be non-negative
+
+##AGAIN##
+##reload
+dat<- read.csv("waterfowl.csv")
+dat$POP <- abs(dat$POP)
+dat$YEAR<- abs(dat$YEAR)
+dat$STRATUM<- abs(dat$STRATUM)
+dat$STRATUM<- as.factor(dat$STRATUM)
+str(dat)
+colnames(dat)[1] = "YEAR"
+colnames(dat)[2] = "STRATUM"
+colnames(dat)[3] = "AOU"
+colnames(dat)[4] = "SPECIES"
+colnames(dat)[5] = "POP"
+str(dat)
+H<-diversity(dat, index = "shannon", MARGIN = 1)
+head(dat)
+##try some dplyr tools##
+##separate out species to indv columns##
+specs <-	dat %>% 
+	select(-AOU) %>% 
+	spread(Species, Pop, fill = 0)
+str(specs)
+##diversity takes matrix, not df##
+h<-matrix(unlist(specs))
+##makes it a 1 row matrix##
+
+##select rows until it works/stops working##
+h.45<- dat %>%
+	filter(STRATUM == 45) %>% 
+	select(POP,YEAR)
+
+H.45<- diversity(hspecs)
+H.45
+
+

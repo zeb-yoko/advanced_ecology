@@ -98,6 +98,7 @@ colnames(dat)[3] = "SPECIES"
 colnames(dat)[4] = "POP"
 ## PEEK AT DATA##
 str(dat.45)
+
 H<-diversity(dat.45, index = "shannon", MARGIN = 1)
 #> H<-diversity(dat.45, index = "shannon", MARGIN = 1)
 #Error in diversity(dat.45, index = "shannon", MARGIN = 1) : 
@@ -122,19 +123,18 @@ head(dat)
 ##try some dplyr tools##
 ##separate out species to indv columns##
 specs <-	dat %>% 
-	select(-AOU) %>% 
-	spread(Species, Pop, fill = 0)
+	spread(SPECIES, POP, fill = 0)
 str(specs)
 ##diversity takes matrix, not df##
 h<-matrix(unlist(specs))
 ##makes it a 1 row matrix##
-
+h
 ##select rows until it works/stops working##
 h.45<- dat %>%
 	filter(STRATUM == 45) %>% 
 	select(POP,YEAR)
 
-H.45<- diversity(hspecs)
+H.45<- diversity(h.45)
 H.45
 
 

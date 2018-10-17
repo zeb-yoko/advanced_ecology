@@ -177,7 +177,7 @@ for(i in 1:nrow(div.45)){
 	print(i)
 	print(count)
 }
-str(div)
+str(div.45)
 ##plot it (45)##
 shannon.45 <- ggplot(div.45, aes(x=YEAR, y=div.45)) +
 						geom_point(col = "royalblue3") + 
@@ -214,7 +214,7 @@ for(i in 1:nrow(div.46)){
 	print(i)
 	print(count)
 }
-str(div)
+str(div.46)
 ##plot it (46)##
 shannon.46 <- ggplot(div.46, aes(x=YEAR, y=div.46)) +
 						geom_point(col="red") + 
@@ -222,21 +222,11 @@ shannon.46 <- ggplot(div.46, aes(x=YEAR, y=div.46)) +
 	ylab("Stratum 46 diversity index")
 shannon.46
 
-##OR##
-##MERGE##
-#combo <- div.45 %>% dplyr::inner_join(div.46, by = c("YEAR" = "YEAR"))
-shannon.comparison <- ggplot(both, aes(x=YEAR, y=diversity), color = stratum) +
-						geom_point() + 
-	geom_smooth(method = 'lm', col = "royalblue") +
+##Combined to one graph with one regression##
+shannon.comparison <- ggplot(div.45, aes(x=YEAR, y=div.45)) +
+	geom_point(col="red3")+					
+	geom_point(x=div.46$YEAR, y = div.46$div.46, col = "royalblue3") + 
+	geom_smooth(method = 'lm', col = "black") + 
 	ylab("Diversity index for 45 & 46")
 shannon.comparison
-str(combo)
-#Nope
-both$diversity<-c(div.45$div.45, div.46$div.46)
-both$YEAR<-c(div.45$YEAR, div.46$YEAR)
-both$stratum[2:61,6]<-"45"
-both$stratum[[62:122,6]]<-"46"
-both<-as.data.frame(both)
-#also nope#
-both
-str(both)
+

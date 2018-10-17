@@ -41,9 +41,11 @@ dat.graph <- dat %>%
 dat.graph$STRATUM <- as.factor(dat.graph$STRATUM)
 ##ggplot scatterplot for Q4 ##
 mals <- ggplot(dat.graph, aes(x=YEAR, y=POP, color = STRATUM)) +
-						geom_point() + geom_smooth(method = 'lm')
+						geom_point() + geom_smooth(method = 'lm') +
+			scale_color_manual(values = c("red3", "royalblue3"))
 mals
 #############
+
 
 ##boxplot of mallard by strata##
 ##Q5##
@@ -51,7 +53,7 @@ mallxstr <- ggplot(dat.graph, aes(x=STRATUM, y=POP, color = STRATUM))+
 	geom_boxplot(outlier.color = "tan") +
 	stat_summary(fun.y = 'mean', geom = 'point', shape = 43, size = 4)+
 	xlab("Stratum") + ylab("Population")+
-	scale_color_manual(values = c("Red", "Blue"))
+	scale_color_manual(values = c("red3", "royalblue3"))
 mallxstr
 ##############
 
@@ -107,7 +109,7 @@ H<-diversity(dat.45, index = "shannon", MARGIN = 1)
 #  input data must be non-negative
 
 
-######################
+######################################
 ###ignore section between lines 111-143###
 ##AGAIN##
 ##reload
@@ -143,11 +145,12 @@ H.45<- diversity(h.45)
 H.45
 ################
 ##end ignored section##
-#################
+################################################################
 
 ##Made datatables in excel##
 ##pivot table to organize data like example data (BCI)##
 ##load in pivoted data##
+#######Strata 45########
 str.45<- read.csv("stratum45.csv")
 str(str.45)
 ##fix column name##
@@ -177,11 +180,11 @@ for(i in 1:nrow(div.45)){
 str(div)
 ##plot it (45)##
 shannon.45 <- ggplot(div.45, aes(x=YEAR, y=div.45)) +
-						geom_point() + geom_smooth(method = 'lm')
+						geom_point(col = "royalblue3") + geom_smooth(method = 'lm', col = "red")
 shannon.45
 
 
-
+#######Strata 46#######
 ##load in pivoted data##
 str.46<- read.csv("stratum46.csv")
 str(str.46)
@@ -212,5 +215,5 @@ for(i in 1:nrow(div.46)){
 str(div)
 ##plot it (46)##
 shannon.46 <- ggplot(div.46, aes(x=YEAR, y=div.46)) +
-						geom_point() + geom_smooth(method = 'lm')
+						geom_point(col="red") + geom_smooth(method = 'lm', col = "royalblue")
 shannon.46

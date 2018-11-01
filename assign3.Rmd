@@ -1,0 +1,25 @@
+---
+title: "Assignment 3"
+author: "Zebadiah Yoko"
+date: "October 31, 2018"
+output:
+bookdown::html_document2: default  
+bibliography: MyCollection.bib  
+---
+
+# Paragraph One
+
+Here is a paragraph in R markdown. It is a chunk of text with no preceding marks or symbols. A paragraph usually has 3-4 sentences, so here is the last one. some citations could include papers we read in this class [@McGill2010; @Carpenter1996; @Srivastava2004].
+
+## Including Plots
+
+```{r}
+library(ggplot2)
+data(cars)
+setwd("C:/Users/Zebadiah/OneDrive/NDSU/advanced_ecology")
+(histo <- ggplot(cars, aes(x=dist))+
+					  geom_histogram(binwidth = 5))
+```
+
+# Citations
+

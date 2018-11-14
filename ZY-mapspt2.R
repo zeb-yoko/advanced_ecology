@@ -65,6 +65,22 @@ road_palette
 ggplot() +
   geom_path(data = sjer_roads.df, aes(x = long, y = lat,
                                       group = group, color=factor(RTTYP))) +
-      scale_colour_manual(values = road_palette) +
-  labs(title = "Madera County Roads ",
-       subtitle = "Colored by road type")
+scale_size_manual(values = c("C" = .3, "M" = .6, "S" = .6, "Unknown" = .3)) +
+	labs(title = "Madera County Roads ",
+       subtitle = "Colored by road type",
+  	    color = "Road type",
+       x = "", y = "") +
+  	  	theme(axis.text = element_blank(), axis.ticks = element_blank())  +
+	coord_quickmap() +
+	guides(colour = guide_legend("Legend title here"), size = guide_legend("Same legend title here"))
+
+##add points next##
+
+jer_plots <- readOGR("data/week-04/california/SJER/vector_data",
+                      "SJER_plot_centroids")
+# given you want to plot 2 layers together, let's check the crs before going any further
+crs(sjer_plots)
+crs(sjer_roads)
+
+# reproject to lat / long
+sjer_plots <- spTransform(sjer_plots, crs(sjer_roads))
